@@ -1,0 +1,211 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d2" for="node" attr.name="romaji" attr.type="string"/>
+<key id="d1" for="node" attr.name="popularity" attr.type="long"/>
+<key id="d0" for="node" attr.name="id" attr.type="long"/>
+<graph edgedefault="undirected"><node id="140960">
+  <data key="d0">140960</data>
+  <data key="d1">180150</data>
+  <data key="d2">SPY×FAMILY</data>
+</node>
+<node id="101921">
+  <data key="d0">101921</data>
+  <data key="d1">307544</data>
+  <data key="d2">Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen</data>
+</node>
+<node id="110349">
+  <data key="d0">110349</data>
+  <data key="d1">126243</data>
+  <data key="d2">GREAT PRETENDER</data>
+</node>
+<node id="125367">
+  <data key="d0">125367</data>
+  <data key="d1">110119</data>
+  <data key="d2">Kaguya-sama wa Kokurasetai: Ultra Romantic</data>
+</node>
+<node id="114888">
+  <data key="d0">114888</data>
+  <data key="d1">106936</data>
+  <data key="d2">Fugou Keiji: Balance:UNLIMITED</data>
+</node>
+<node id="100077">
+  <data key="d0">100077</data>
+  <data key="d1">92910</data>
+  <data key="d2">Hinamatsuri</data>
+</node>
+<node id="113311">
+  <data key="d0">113311</data>
+  <data key="d1">69255</data>
+  <data key="d2">Kakushigoto</data>
+</node>
+<node id="2251">
+  <data key="d0">2251</data>
+  <data key="d1">120725</data>
+  <data key="d2">Baccano!</data>
+</node>
+<node id="20722">
+  <data key="d0">20722</data>
+  <data key="d1">97110</data>
+  <data key="d2">Barakamon</data>
+</node>
+<node id="98505">
+  <data key="d0">98505</data>
+  <data key="d1">44585</data>
+  <data key="d2">Princess Principal</data>
+</node>
+<node id="1412">
+  <data key="d0">1412</data>
+  <data key="d1">19260</data>
+  <data key="d2">Lupin III</data>
+</node>
+<node id="108617">
+  <data key="d0">108617</data>
+  <data key="d1">61126</data>
+  <data key="d2">Somali to Mori no Kamisama</data>
+</node>
+<node id="112641">
+  <data key="d0">112641</data>
+  <data key="d1">247345</data>
+  <data key="d2">Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen</data>
+</node>
+<node id="125426">
+  <data key="d0">125426</data>
+  <data key="d1">81292</data>
+  <data key="d2">Gokushufudou</data>
+</node>
+<node id="114124">
+  <data key="d0">114124</data>
+  <data key="d1">79143</data>
+  <data key="d2">Yuukoku no Moriarty</data>
+</node>
+<node id="98503">
+  <data key="d0">98503</data>
+  <data key="d1">61427</data>
+  <data key="d2">Gakuen Babysitters</data>
+</node>
+<node id="21291">
+  <data key="d0">21291</data>
+  <data key="d1">33030</data>
+  <data key="d2">Joker Game</data>
+</node>
+<node id="110350">
+  <data key="d0">110350</data>
+  <data key="d1">71451</data>
+  <data key="d2">ID: INVADED</data>
+</node>
+<node id="132532">
+  <data key="d0">132532</data>
+  <data key="d1">14372</data>
+  <data key="d2">Deaimon</data>
+</node>
+<node id="129759">
+  <data key="d0">129759</data>
+  <data key="d1">3403</data>
+  <data key="d2">Princess Principal: Crown Handler - Chapter 2</data>
+</node>
+<node id="21659">
+  <data key="d0">21659</data>
+  <data key="d1">53801</data>
+  <data key="d2">Amaama to Inazuma</data>
+</node>
+<node id="21631">
+  <data key="d0">21631</data>
+  <data key="d1">22011</data>
+  <data key="d2">Udon no Kuni no Kiniro Kemari</data>
+</node>
+<node id="10162">
+  <data key="d0">10162</data>
+  <data key="d1">67706</data>
+  <data key="d2">Usagi Drop</data>
+</node>
+<node id="120220">
+  <data key="d0">120220</data>
+  <data key="d1">8957</data>
+  <data key="d2">Dawang Raoming</data>
+</node>
+<node id="21823">
+  <data key="d0">21823</data>
+  <data key="d1">33949</data>
+  <data key="d2">ACCA: 13-ku Kansatsu-ka</data>
+</node>
+<node id="100957">
+  <data key="d0">100957</data>
+  <data key="d1">9628</data>
+  <data key="d2">Lupin III: Part V</data>
+</node>
+<edge source="140960" target="101921">
+  <data key="d3">274</data>
+</edge>
+<edge source="140960" target="110349">
+  <data key="d3">176</data>
+</edge>
+<edge source="140960" target="125367">
+  <data key="d3">168</data>
+</edge>
+<edge source="140960" target="114888">
+  <data key="d3">123</data>
+</edge>
+<edge source="140960" target="100077">
+  <data key="d3">100</data>
+</edge>
+<edge source="140960" target="113311">
+  <data key="d3">65</data>
+</edge>
+<edge source="140960" target="2251">
+  <data key="d3">33</data>
+</edge>
+<edge source="140960" target="20722">
+  <data key="d3">24</data>
+</edge>
+<edge source="140960" target="98505">
+  <data key="d3">23</data>
+</edge>
+<edge source="140960" target="1412">
+  <data key="d3">18</data>
+</edge>
+<edge source="140960" target="108617">
+  <data key="d3">15</data>
+</edge>
+<edge source="140960" target="112641">
+  <data key="d3">14</data>
+</edge>
+<edge source="140960" target="125426">
+  <data key="d3">12</data>
+</edge>
+<edge source="140960" target="114124">
+  <data key="d3">10</data>
+</edge>
+<edge source="140960" target="98503">
+  <data key="d3">8</data>
+</edge>
+<edge source="140960" target="21291">
+  <data key="d3">6</data>
+</edge>
+<edge source="140960" target="110350">
+  <data key="d3">6</data>
+</edge>
+<edge source="140960" target="132532">
+  <data key="d3">6</data>
+</edge>
+<edge source="140960" target="129759">
+  <data key="d3">6</data>
+</edge>
+<edge source="140960" target="21659">
+  <data key="d3">6</data>
+</edge>
+<edge source="140960" target="21631">
+  <data key="d3">5</data>
+</edge>
+<edge source="140960" target="10162">
+  <data key="d3">5</data>
+</edge>
+<edge source="140960" target="120220">
+  <data key="d3">4</data>
+</edge>
+<edge source="140960" target="21823">
+  <data key="d3">4</data>
+</edge>
+<edge source="140960" target="100957">
+  <data key="d3">4</data>
+</edge>
+</graph></graphml>
