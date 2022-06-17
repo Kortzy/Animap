@@ -1,9 +1,10 @@
 import networkx
+import os
 import dash
 import plotly.graph_objs as go
 from colour import Color
 
-G = networkx.read_graphml(r"C:\Users\u227838\Documents\Graphtst.graphml")
+G = networkx.read_graphml(os.getcwd() + "/Graphtst.graphml")
 
 pos = networkx.spring_layout(G)
 for node in G.nodes: 
@@ -50,10 +51,10 @@ def get_node_traces(G: networkx.graph) -> list:
         node_family["hovertext"]
         node_family["text"]
 
-    return list(node_family)
+    return node_family
     
 print(get_node_traces(G))
-# get_edge_traces(G)
+print(get_edge_traces(G))
 
 #G = networkx.random_regular_graph(8, 14)
 #

@@ -62,6 +62,7 @@ def tracing(G: networkx.graph):
         x=edge_x, y=edge_y,
         line=dict(width=3, color='Black'),
         hoverinfo='text',
+        hoverlabel={"bgcolor": "MediumSeaGreen", "font": {"color": "Black"}},
         text=edge_width,
         mode='lines')
 
@@ -80,6 +81,7 @@ def tracing(G: networkx.graph):
         x=node_x, y=node_y,
         mode='markers',
         hoverinfo='text',
+        hoverlabel={"bgcolor": "MediumSeaGreen", "font": {"color": "Black"}},
         text=node_text,
         marker=dict(
             size=50,
