@@ -6,36 +6,6 @@ import matplotlib.pyplot as plt
 import plotly.graph_objects as go
 
 
-def anime_request(id):
-    query = '''
-query ($id: Int) { # Define which variables will be used in the query (id)
-Media (id: $id, type: ANIME) {
-    id
-    popularity
-    title {
-    romaji
-    }
-    recommendations (sort: RATING_DESC) {
-    nodes {
-        rating
-        mediaRecommendation {
-        id
-        popularity
-        title {
-            romaji
-        }
-        }
-    }
-    }
-}
-}
-'''
-    variables = {
-        'id': id
-    }
-    url = 'https://graphql.anilist.co'
-    return requests.post(url, json={'query': query, 'variables': variables})
-
 def flatten(d, parent_key=''):
     items = []
     for k, v in d.items():
@@ -45,7 +15,50 @@ def flatten(d, parent_key=''):
         else:
             items.append((child_key, v))
     return dict(items)
-    
+
+def anime_request():
+    id = int(input("Anime ID: "))
+    query = '''
+query ($id: Int) { # Define which variables will be used in the query (id)
+  Media (id: $id, type: ANIME) {
+    id
+    popularity
+    title {
+      romaji
+    }
+    recommendations (sort: RATING_DESC) {
+      nodes {
+        rating
+        mediaRecommendation {
+          id
+          popularity
+          title {
+            romaji
+          }
+          recommendations (sort: RATING_DESC) {
+            nodes {
+              rating
+              mediaRecommendation {
+                id
+                popularity
+                title {
+                 romaji
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+'''
+    variables = {
+        'id': id
+    }
+    url = 'https://graphql.anilist.co'
+    return flatten(json.loads(requests.post(url, json={'query': query, 'variables': variables}).text))
+
 def tracing(G: networkx.graph):
     edge_x = []
     edge_y = []
@@ -59,8 +72,7 @@ def tracing(G: networkx.graph):
         edge_y.extend([y0, y1, None])
         edge_desc_x += tuple([(x0 + x1) / 2])
         edge_desc_y += tuple([(y0 + y1) / 2])
-        print(tuple([(x0 + x1) / 2]))
-        edge_desc_text.append(f"Rating:{G.edges[edge]['weight']}")
+        edge_desc_text.append(f"Rating:X")
 
 
     edge_trace = go.Scatter(
@@ -87,6 +99,7 @@ def tracing(G: networkx.graph):
         x, y = G.nodes[node]['pos']
         node_x.append(x)
         node_y.append(y)
+        print(G.nodes[node])
         node_text.append(f"name:{G.nodes[node]['romaji']}\npopularity:{G.nodes[node]['popularity']}")
         node_popularity.append(G.nodes[node]["popularity"])
         
@@ -124,25 +137,41 @@ def tracing(G: networkx.graph):
     )
     fig.show()
 
-def main():
-    anime_input = int(input("Anime ID: "))
-    # call anime_request function and format its response
-    anime_dict = flatten(json.loads(anime_request(anime_input).text))
-    rec_list = anime_dict["nodes"]
-    del anime_dict["nodes"]
-    main_anime_dict = {anime_dict["id"]: anime_dict}
-    G = networkx.Graph()
-    #create node for requested anime and give it its attributes
-    G.add_node(anime_dict["id"])
-    networkx.set_node_attributes(G, main_anime_dict)
+#def node_attributes(rec_list, G: networkx.graph):
+#    for anime in rec_list:
+#        recommended_dict = flatten(anime)
+#        del recommended_dict["rating"]
+#        anime_attributes = {recommended_dict["id"]: recommended_dict}
+#        G.add_node(recommended_dict["id"])
+#        G.add_edge(anime_dict["id"], recommended_dict["id"], weight=anime["rating"])
+#        networkx.set_node_attributes(G, anime_attributes)
+#        return(flatten(anime)["nodes"])
 
+def main_anime(anime_dict):
+    anime = {k: v for k, v in anime_dict.items() if k != "nodes"}
+    return {anime["id"]: anime}       
+    
+def node_attributes(anime_dict, G: networkx.graph):
+    rec_list = flatten(anime_dict)["nodes"]
+    attributes = [main_anime(anime_dict)]
     for anime in rec_list:
         recommended_dict = flatten(anime)
-        del recommended_dict["rating"]
-        anime_attributes = {recommended_dict["id"]: recommended_dict}
-        G.add_node(recommended_dict["id"])
-        G.add_edge(anime_dict["id"], recommended_dict["id"], weight=anime["rating"])
-        networkx.set_node_attributes(G, anime_attributes)
+        attributes.append({recommended_dict["id"]: recommended_dict})
+    return attributes
+
+def network_graph(G: networkx.graph, attributes):
+    main_d_id = next(iter(attributes[0]))
+    for d in attributes:
+        d_id = next(iter(d))
+        G.add_node(d_id)
+        G.add_edge(str(main_d_id), str(d_id))
+        networkx.set_node_attributes(G, d)
+
+def main():
+    #json.dump(anime_dict, open(r'C:\Users\u227838\Documents\Animap\dict.json', "w"), indent=2)
+    G = networkx.Graph()
+    anime_dict = anime_request()
+    network_graph(G, node_attributes(anime_dict, G))
     pos = networkx.spring_layout(G)
     for node in G.nodes:
         G.nodes[node]["pos"] = list(pos[node])
