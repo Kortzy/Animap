@@ -1,0 +1,6042 @@
+[
+  {
+    "rating": 1200,
+    "mediaRecommendation": {
+      "id": 11061,
+      "popularity": 484456,
+      "title": {
+        "romaji": "HUNTER\u00d7HUNTER (2011)"
+      },
+      "recommendations": {
+        "nodes": [
+          {
+            "rating": 2146,
+            "mediaRecommendation": {
+              "id": 5114,
+              "popularity": 416497,
+              "title": {
+                "romaji": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST"
+              }
+            }
+          },
+          {
+            "rating": 1200,
+            "mediaRecommendation": {
+              "id": 21,
+              "popularity": 347642,
+              "title": {
+                "romaji": "ONE PIECE"
+              }
+            }
+          },
+          {
+            "rating": 897,
+            "mediaRecommendation": {
+              "id": 392,
+              "popularity": 90713,
+              "title": {
+                "romaji": "Yuu\u2606Yuu\u2606Hakusho"
+              }
+            }
+          },
+          {
+            "rating": 745,
+            "mediaRecommendation": {
+              "id": 113415,
+              "popularity": 458486,
+              "title": {
+                "romaji": "Jujutsu Kaisen"
+              }
+            }
+          },
+          {
+            "rating": 470,
+            "mediaRecommendation": {
+              "id": 115230,
+              "popularity": 179777,
+              "title": {
+                "romaji": "Kami no Tou: Tower of God"
+              }
+            }
+          },
+          {
+            "rating": 191,
+            "mediaRecommendation": {
+              "id": 14719,
+              "popularity": 272961,
+              "title": {
+                "romaji": "JoJo no Kimyou na Bouken (TV)"
+              }
+            }
+          },
+          {
+            "rating": 185,
+            "mediaRecommendation": {
+              "id": 21507,
+              "popularity": 339830,
+              "title": {
+                "romaji": "Mob Psycho 100"
+              }
+            }
+          },
+          {
+            "rating": 184,
+            "mediaRecommendation": {
+              "id": 1735,
+              "popularity": 346171,
+              "title": {
+                "romaji": "NARUTO: Shippuuden"
+              }
+            }
+          },
+          {
+            "rating": 138,
+            "mediaRecommendation": {
+              "id": 21459,
+              "popularity": 524015,
+              "title": {
+                "romaji": "Boku no Hero Academia"
+              }
+            }
+          },
+          {
+            "rating": 125,
+            "mediaRecommendation": {
+              "id": 20,
+              "popularity": 405919,
+              "title": {
+                "romaji": "NARUTO"
+              }
+            }
+          },
+          {
+            "rating": 84,
+            "mediaRecommendation": {
+              "id": 101922,
+              "popularity": 539103,
+              "title": {
+                "romaji": "Kimetsu no Yaiba"
+              }
+            }
+          },
+          {
+            "rating": 82,
+            "mediaRecommendation": {
+              "id": 116006,
+              "popularity": 178937,
+              "title": {
+                "romaji": "THE GOD OF HIGH SCHOOL"
+              }
+            }
+          },
+          {
+            "rating": 68,
+            "mediaRecommendation": {
+              "id": 223,
+              "popularity": 121995,
+              "title": {
+                "romaji": "Dragon Ball"
+              }
+            }
+          },
+          {
+            "rating": 67,
+            "mediaRecommendation": {
+              "id": 14513,
+              "popularity": 138786,
+              "title": {
+                "romaji": "Magi: The labyrinth of magic"
+              }
+            }
+          },
+          {
+            "rating": 55,
+            "mediaRecommendation": {
+              "id": 104276,
+              "popularity": 317373,
+              "title": {
+                "romaji": "Boku no Hero Academia 4"
+              }
+            }
+          },
+          {
+            "rating": 48,
+            "mediaRecommendation": {
+              "id": 101338,
+              "popularity": 249040,
+              "title": {
+                "romaji": "Mob Psycho 100 II"
+              }
+            }
+          },
+          {
+            "rating": 41,
+            "mediaRecommendation": {
+              "id": 20799,
+              "popularity": 162911,
+              "title": {
+                "romaji": "JoJo no Kimyou na Bouken: Stardust Crusaders - Egypt-hen"
+              }
+            }
+          },
+          {
+            "rating": 38,
+            "mediaRecommendation": {
+              "id": 117193,
+              "popularity": 224253,
+              "title": {
+                "romaji": "Boku no Hero Academia 5"
+              }
+            }
+          },
+          {
+            "rating": 37,
+            "mediaRecommendation": {
+              "id": 119675,
+              "popularity": 53081,
+              "title": {
+                "romaji": "SHAMAN KING (2021)"
+              }
+            }
+          },
+          {
+            "rating": 31,
+            "mediaRecommendation": {
+              "id": 114099,
+              "popularity": 13915,
+              "title": {
+                "romaji": "Dragon Quest: Dai no Daibouken (2020)"
+              }
+            }
+          },
+          {
+            "rating": 30,
+            "mediaRecommendation": {
+              "id": 102883,
+              "popularity": 166320,
+              "title": {
+                "romaji": "JoJo no Kimyou na Bouken: Ougon no Kaze"
+              }
+            }
+          },
+          {
+            "rating": 28,
+            "mediaRecommendation": {
+              "id": 114085,
+              "popularity": 74272,
+              "title": {
+                "romaji": "Kemono Jihen"
+              }
+            }
+          },
+          {
+            "rating": 25,
+            "mediaRecommendation": {
+              "id": 108553,
+              "popularity": 104458,
+              "title": {
+                "romaji": "Boku no Hero Academia THE MOVIE: Heroes:Rising"
+              }
+            }
+          },
+          {
+            "rating": 24,
+            "mediaRecommendation": {
+              "id": 269,
+              "popularity": 237866,
+              "title": {
+                "romaji": "BLEACH"
+              }
+            }
+          },
+          {
+            "rating": 17,
+            "mediaRecommendation": {
+              "id": 122434,
+              "popularity": 33620,
+              "title": {
+                "romaji": "Heion Sedai no Idaten-tachi"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "rating": 578,
+    "mediaRecommendation": {
+      "id": 20,
+      "popularity": 405919,
+      "title": {
+        "romaji": "NARUTO"
+      },
+      "recommendations": {
+        "nodes": [
+          {
+            "rating": 589,
+            "mediaRecommendation": {
+              "id": 97940,
+              "popularity": 306668,
+              "title": {
+                "romaji": "Black Clover"
+              }
+            }
+          },
+          {
+            "rating": 578,
+            "mediaRecommendation": {
+              "id": 21,
+              "popularity": 347642,
+              "title": {
+                "romaji": "ONE PIECE"
+              }
+            }
+          },
+          {
+            "rating": 286,
+            "mediaRecommendation": {
+              "id": 21459,
+              "popularity": 524015,
+              "title": {
+                "romaji": "Boku no Hero Academia"
+              }
+            }
+          },
+          {
+            "rating": 200,
+            "mediaRecommendation": {
+              "id": 269,
+              "popularity": 237866,
+              "title": {
+                "romaji": "BLEACH"
+              }
+            }
+          },
+          {
+            "rating": 193,
+            "mediaRecommendation": {
+              "id": 97938,
+              "popularity": 143706,
+              "title": {
+                "romaji": "BORUTO: NARUTO NEXT GENERATIONS"
+              }
+            }
+          },
+          {
+            "rating": 163,
+            "mediaRecommendation": {
+              "id": 113415,
+              "popularity": 458486,
+              "title": {
+                "romaji": "Jujutsu Kaisen"
+              }
+            }
+          },
+          {
+            "rating": 125,
+            "mediaRecommendation": {
+              "id": 11061,
+              "popularity": 484456,
+              "title": {
+                "romaji": "HUNTER\u00d7HUNTER (2011)"
+              }
+            }
+          },
+          {
+            "rating": 99,
+            "mediaRecommendation": {
+              "id": 223,
+              "popularity": 121995,
+              "title": {
+                "romaji": "Dragon Ball"
+              }
+            }
+          },
+          {
+            "rating": 80,
+            "mediaRecommendation": {
+              "id": 101922,
+              "popularity": 539103,
+              "title": {
+                "romaji": "Kimetsu no Yaiba"
+              }
+            }
+          },
+          {
+            "rating": 39,
+            "mediaRecommendation": {
+              "id": 813,
+              "popularity": 139830,
+              "title": {
+                "romaji": "Dragon Ball Z"
+              }
+            }
+          },
+          {
+            "rating": 32,
+            "mediaRecommendation": {
+              "id": 104276,
+              "popularity": 317373,
+              "title": {
+                "romaji": "Boku no Hero Academia 4"
+              }
+            }
+          },
+          {
+            "rating": 30,
+            "mediaRecommendation": {
+              "id": 117193,
+              "popularity": 224253,
+              "title": {
+                "romaji": "Boku no Hero Academia 5"
+              }
+            }
+          },
+          {
+            "rating": 27,
+            "mediaRecommendation": {
+              "id": 136,
+              "popularity": 69282,
+              "title": {
+                "romaji": "HUNTER\u00d7HUNTER"
+              }
+            }
+          },
+          {
+            "rating": 23,
+            "mediaRecommendation": {
+              "id": 20626,
+              "popularity": 112566,
+              "title": {
+                "romaji": "FAIRY TAIL (2014)"
+              }
+            }
+          },
+          {
+            "rating": 22,
+            "mediaRecommendation": {
+              "id": 116006,
+              "popularity": 178937,
+              "title": {
+                "romaji": "THE GOD OF HIGH SCHOOL"
+              }
+            }
+          },
+          {
+            "rating": 20,
+            "mediaRecommendation": {
+              "id": 100166,
+              "popularity": 367932,
+              "title": {
+                "romaji": "Boku no Hero Academia 3"
+              }
+            }
+          },
+          {
+            "rating": 19,
+            "mediaRecommendation": {
+              "id": 126659,
+              "popularity": 50573,
+              "title": {
+                "romaji": "Boku no Hero Academia THE MOVIE: World Heroes' Mission"
+              }
+            }
+          },
+          {
+            "rating": 19,
+            "mediaRecommendation": {
+              "id": 21856,
+              "popularity": 403108,
+              "title": {
+                "romaji": "Boku no Hero Academia 2"
+              }
+            }
+          },
+          {
+            "rating": 15,
+            "mediaRecommendation": {
+              "id": 121,
+              "popularity": 154061,
+              "title": {
+                "romaji": "Hagane no Renkinjutsushi"
+              }
+            }
+          },
+          {
+            "rating": 12,
+            "mediaRecommendation": {
+              "id": 4134,
+              "popularity": 7740,
+              "title": {
+                "romaji": "NARUTO: Shippuuden - Shippu! \"Konoha Gakuen\" Den"
+              }
+            }
+          },
+          {
+            "rating": 12,
+            "mediaRecommendation": {
+              "id": 16870,
+              "popularity": 80524,
+              "title": {
+                "romaji": "THE LAST: NARUTO THE MOVIE"
+              }
+            }
+          },
+          {
+            "rating": 12,
+            "mediaRecommendation": {
+              "id": 10686,
+              "popularity": 14343,
+              "title": {
+                "romaji": "NARUTO: Honoo no Chuunin Shiken! Naruto vs Konohamaru!!"
+              }
+            }
+          },
+          {
+            "rating": 10,
+            "mediaRecommendation": {
+              "id": 21579,
+              "popularity": 18773,
+              "title": {
+                "romaji": "BORUTO: NARUTO THE MOVIE - Naruto ga Hokage ni Natta Hi"
+              }
+            }
+          },
+          {
+            "rating": 7,
+            "mediaRecommendation": {
+              "id": 6702,
+              "popularity": 220742,
+              "title": {
+                "romaji": "FAIRY TAIL"
+              }
+            }
+          },
+          {
+            "rating": 7,
+            "mediaRecommendation": {
+              "id": 101024,
+              "popularity": 40223,
+              "title": {
+                "romaji": "Radiant"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "rating": 399,
+    "mediaRecommendation": {
+      "id": 1735,
+      "popularity": 346171,
+      "title": {
+        "romaji": "NARUTO: Shippuuden"
+      },
+      "recommendations": {
+        "nodes": [
+          {
+            "rating": 399,
+            "mediaRecommendation": {
+              "id": 21,
+              "popularity": 347642,
+              "title": {
+                "romaji": "ONE PIECE"
+              }
+            }
+          },
+          {
+            "rating": 248,
+            "mediaRecommendation": {
+              "id": 269,
+              "popularity": 237866,
+              "title": {
+                "romaji": "BLEACH"
+              }
+            }
+          },
+          {
+            "rating": 184,
+            "mediaRecommendation": {
+              "id": 11061,
+              "popularity": 484456,
+              "title": {
+                "romaji": "HUNTER\u00d7HUNTER (2011)"
+              }
+            }
+          },
+          {
+            "rating": 145,
+            "mediaRecommendation": {
+              "id": 97938,
+              "popularity": 143706,
+              "title": {
+                "romaji": "BORUTO: NARUTO NEXT GENERATIONS"
+              }
+            }
+          },
+          {
+            "rating": 95,
+            "mediaRecommendation": {
+              "id": 6702,
+              "popularity": 220742,
+              "title": {
+                "romaji": "FAIRY TAIL"
+              }
+            }
+          },
+          {
+            "rating": 78,
+            "mediaRecommendation": {
+              "id": 21459,
+              "popularity": 524015,
+              "title": {
+                "romaji": "Boku no Hero Academia"
+              }
+            }
+          },
+          {
+            "rating": 75,
+            "mediaRecommendation": {
+              "id": 113415,
+              "popularity": 458486,
+              "title": {
+                "romaji": "Jujutsu Kaisen"
+              }
+            }
+          },
+          {
+            "rating": 71,
+            "mediaRecommendation": {
+              "id": 813,
+              "popularity": 139830,
+              "title": {
+                "romaji": "Dragon Ball Z"
+              }
+            }
+          },
+          {
+            "rating": 49,
+            "mediaRecommendation": {
+              "id": 97940,
+              "popularity": 306668,
+              "title": {
+                "romaji": "Black Clover"
+              }
+            }
+          },
+          {
+            "rating": 45,
+            "mediaRecommendation": {
+              "id": 5114,
+              "popularity": 416497,
+              "title": {
+                "romaji": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST"
+              }
+            }
+          },
+          {
+            "rating": 37,
+            "mediaRecommendation": {
+              "id": 129874,
+              "popularity": 148195,
+              "title": {
+                "romaji": "Kimetsu no Yaiba: Mugen Ressha-hen (TV)"
+              }
+            }
+          },
+          {
+            "rating": 22,
+            "mediaRecommendation": {
+              "id": 99749,
+              "popularity": 84928,
+              "title": {
+                "romaji": "FAIRY TAIL (2018)"
+              }
+            }
+          },
+          {
+            "rating": 17,
+            "mediaRecommendation": {
+              "id": 112151,
+              "popularity": 256041,
+              "title": {
+                "romaji": "Kimetsu no Yaiba: Mugen Ressha-hen"
+              }
+            }
+          },
+          {
+            "rating": 17,
+            "mediaRecommendation": {
+              "id": 6033,
+              "popularity": 53707,
+              "title": {
+                "romaji": "Dragon Ball Kai"
+              }
+            }
+          },
+          {
+            "rating": 12,
+            "mediaRecommendation": {
+              "id": 20626,
+              "popularity": 112566,
+              "title": {
+                "romaji": "FAIRY TAIL (2014)"
+              }
+            }
+          },
+          {
+            "rating": 11,
+            "mediaRecommendation": {
+              "id": 142329,
+              "popularity": 176196,
+              "title": {
+                "romaji": "Kimetsu no Yaiba: Yuukaku-hen"
+              }
+            }
+          },
+          {
+            "rating": 8,
+            "mediaRecommendation": {
+              "id": 918,
+              "popularity": 169565,
+              "title": {
+                "romaji": "Gintama"
+              }
+            }
+          },
+          {
+            "rating": 4,
+            "mediaRecommendation": {
+              "id": 392,
+              "popularity": 90713,
+              "title": {
+                "romaji": "Yuu\u2606Yuu\u2606Hakusho"
+              }
+            }
+          },
+          {
+            "rating": 4,
+            "mediaRecommendation": {
+              "id": 136,
+              "popularity": 69282,
+              "title": {
+                "romaji": "HUNTER\u00d7HUNTER"
+              }
+            }
+          },
+          {
+            "rating": 3,
+            "mediaRecommendation": {
+              "id": 2248,
+              "popularity": 7633,
+              "title": {
+                "romaji": "Naruto: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo! Special: Konoha Annual Sports Festival"
+              }
+            }
+          },
+          {
+            "rating": 3,
+            "mediaRecommendation": {
+              "id": 249,
+              "popularity": 101790,
+              "title": {
+                "romaji": "Inuyasha"
+              }
+            }
+          },
+          {
+            "rating": 3,
+            "mediaRecommendation": {
+              "id": 3588,
+              "popularity": 214348,
+              "title": {
+                "romaji": "Soul Eater"
+              }
+            }
+          },
+          {
+            "rating": 2,
+            "mediaRecommendation": {
+              "id": 20789,
+              "popularity": 322289,
+              "title": {
+                "romaji": "Nanatsu no Taizai"
+              }
+            }
+          },
+          {
+            "rating": 2,
+            "mediaRecommendation": {
+              "id": 131573,
+              "popularity": 117592,
+              "title": {
+                "romaji": "Jujutsu Kaisen 0"
+              }
+            }
+          },
+          {
+            "rating": 2,
+            "mediaRecommendation": {
+              "id": 479,
+              "popularity": 13597,
+              "title": {
+                "romaji": "Ueki no Housoku"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "rating": 238,
+    "mediaRecommendation": {
+      "id": 97940,
+      "popularity": 306668,
+      "title": {
+        "romaji": "Black Clover"
+      },
+      "recommendations": {
+        "nodes": [
+          {
+            "rating": 589,
+            "mediaRecommendation": {
+              "id": 20,
+              "popularity": 405919,
+              "title": {
+                "romaji": "NARUTO"
+              }
+            }
+          },
+          {
+            "rating": 321,
+            "mediaRecommendation": {
+              "id": 6702,
+              "popularity": 220742,
+              "title": {
+                "romaji": "FAIRY TAIL"
+              }
+            }
+          },
+          {
+            "rating": 269,
+            "mediaRecommendation": {
+              "id": 21459,
+              "popularity": 524015,
+              "title": {
+                "romaji": "Boku no Hero Academia"
+              }
+            }
+          },
+          {
+            "rating": 238,
+            "mediaRecommendation": {
+              "id": 21,
+              "popularity": 347642,
+              "title": {
+                "romaji": "ONE PIECE"
+              }
+            }
+          },
+          {
+            "rating": 235,
+            "mediaRecommendation": {
+              "id": 105310,
+              "popularity": 248021,
+              "title": {
+                "romaji": "Enen no Shouboutai"
+              }
+            }
+          },
+          {
+            "rating": 174,
+            "mediaRecommendation": {
+              "id": 101922,
+              "popularity": 539103,
+              "title": {
+                "romaji": "Kimetsu no Yaiba"
+              }
+            }
+          },
+          {
+            "rating": 110,
+            "mediaRecommendation": {
+              "id": 117193,
+              "popularity": 224253,
+              "title": {
+                "romaji": "Boku no Hero Academia 5"
+              }
+            }
+          },
+          {
+            "rating": 90,
+            "mediaRecommendation": {
+              "id": 97938,
+              "popularity": 143706,
+              "title": {
+                "romaji": "BORUTO: NARUTO NEXT GENERATIONS"
+              }
+            }
+          },
+          {
+            "rating": 89,
+            "mediaRecommendation": {
+              "id": 104276,
+              "popularity": 317373,
+              "title": {
+                "romaji": "Boku no Hero Academia 4"
+              }
+            }
+          },
+          {
+            "rating": 85,
+            "mediaRecommendation": {
+              "id": 20789,
+              "popularity": 322289,
+              "title": {
+                "romaji": "Nanatsu no Taizai"
+              }
+            }
+          },
+          {
+            "rating": 72,
+            "mediaRecommendation": {
+              "id": 269,
+              "popularity": 237866,
+              "title": {
+                "romaji": "BLEACH"
+              }
+            }
+          },
+          {
+            "rating": 56,
+            "mediaRecommendation": {
+              "id": 101024,
+              "popularity": 40223,
+              "title": {
+                "romaji": "Radiant"
+              }
+            }
+          },
+          {
+            "rating": 56,
+            "mediaRecommendation": {
+              "id": 9919,
+              "popularity": 289305,
+              "title": {
+                "romaji": "Ao no Exorcist"
+              }
+            }
+          },
+          {
+            "rating": 49,
+            "mediaRecommendation": {
+              "id": 1735,
+              "popularity": 346171,
+              "title": {
+                "romaji": "NARUTO: Shippuuden"
+              }
+            }
+          },
+          {
+            "rating": 49,
+            "mediaRecommendation": {
+              "id": 113415,
+              "popularity": 458486,
+              "title": {
+                "romaji": "Jujutsu Kaisen"
+              }
+            }
+          },
+          {
+            "rating": 34,
+            "mediaRecommendation": {
+              "id": 20626,
+              "popularity": 112566,
+              "title": {
+                "romaji": "FAIRY TAIL (2014)"
+              }
+            }
+          },
+          {
+            "rating": 34,
+            "mediaRecommendation": {
+              "id": 108928,
+              "popularity": 122748,
+              "title": {
+                "romaji": "Nanatsu no Taizai: Kamigami no Gekirin"
+              }
+            }
+          },
+          {
+            "rating": 32,
+            "mediaRecommendation": {
+              "id": 112151,
+              "popularity": 256041,
+              "title": {
+                "romaji": "Kimetsu no Yaiba: Mugen Ressha-hen"
+              }
+            }
+          },
+          {
+            "rating": 30,
+            "mediaRecommendation": {
+              "id": 99749,
+              "popularity": 84928,
+              "title": {
+                "romaji": "FAIRY TAIL (2018)"
+              }
+            }
+          },
+          {
+            "rating": 28,
+            "mediaRecommendation": {
+              "id": 14513,
+              "popularity": 138786,
+              "title": {
+                "romaji": "Magi: The labyrinth of magic"
+              }
+            }
+          },
+          {
+            "rating": 20,
+            "mediaRecommendation": {
+              "id": 21861,
+              "popularity": 110039,
+              "title": {
+                "romaji": "Ao no Exorcist: Kyoto Fujouou-hen"
+              }
+            }
+          },
+          {
+            "rating": 15,
+            "mediaRecommendation": {
+              "id": 119683,
+              "popularity": 48664,
+              "title": {
+                "romaji": "EDENS ZERO"
+              }
+            }
+          },
+          {
+            "rating": 13,
+            "mediaRecommendation": {
+              "id": 108040,
+              "popularity": 19181,
+              "title": {
+                "romaji": "Radiant 2"
+              }
+            }
+          },
+          {
+            "rating": 10,
+            "mediaRecommendation": {
+              "id": 126659,
+              "popularity": 50573,
+              "title": {
+                "romaji": "Boku no Hero Academia THE MOVIE: World Heroes' Mission"
+              }
+            }
+          },
+          {
+            "rating": 8,
+            "mediaRecommendation": {
+              "id": 129874,
+              "popularity": 148195,
+              "title": {
+                "romaji": "Kimetsu no Yaiba: Mugen Ressha-hen (TV)"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "rating": 200,
+    "mediaRecommendation": {
+      "id": 223,
+      "popularity": 121995,
+      "title": {
+        "romaji": "Dragon Ball"
+      },
+      "recommendations": {
+        "nodes": [
+          {
+            "rating": 200,
+            "mediaRecommendation": {
+              "id": 21,
+              "popularity": 347642,
+              "title": {
+                "romaji": "ONE PIECE"
+              }
+            }
+          },
+          {
+            "rating": 99,
+            "mediaRecommendation": {
+              "id": 20,
+              "popularity": 405919,
+              "title": {
+                "romaji": "NARUTO"
+              }
+            }
+          },
+          {
+            "rating": 68,
+            "mediaRecommendation": {
+              "id": 11061,
+              "popularity": 484456,
+              "title": {
+                "romaji": "HUNTER\u00d7HUNTER (2011)"
+              }
+            }
+          },
+          {
+            "rating": 62,
+            "mediaRecommendation": {
+              "id": 114099,
+              "popularity": 13915,
+              "title": {
+                "romaji": "Dragon Quest: Dai no Daibouken (2020)"
+              }
+            }
+          },
+          {
+            "rating": 24,
+            "mediaRecommendation": {
+              "id": 392,
+              "popularity": 90713,
+              "title": {
+                "romaji": "Yuu\u2606Yuu\u2606Hakusho"
+              }
+            }
+          },
+          {
+            "rating": 22,
+            "mediaRecommendation": {
+              "id": 2222,
+              "popularity": 2708,
+              "title": {
+                "romaji": "Dr. Slump: Arale-chan"
+              }
+            }
+          },
+          {
+            "rating": 20,
+            "mediaRecommendation": {
+              "id": 2229,
+              "popularity": 3141,
+              "title": {
+                "romaji": "Dragon Quest: Dai no Daibouken"
+              }
+            }
+          },
+          {
+            "rating": 20,
+            "mediaRecommendation": {
+              "id": 225,
+              "popularity": 75303,
+              "title": {
+                "romaji": "Dragon Ball GT"
+              }
+            }
+          },
+          {
+            "rating": 11,
+            "mediaRecommendation": {
+              "id": 894,
+              "popularity": 17257,
+              "title": {
+                "romaji": "Dragon Ball Z: Ora no Gohan wo Kaese!!"
+              }
+            }
+          },
+          {
+            "rating": 6,
+            "mediaRecommendation": {
+              "id": 20635,
+              "popularity": 29422,
+              "title": {
+                "romaji": "Dragon Ball Kai (2014)"
+              }
+            }
+          },
+          {
+            "rating": 6,
+            "mediaRecommendation": {
+              "id": 269,
+              "popularity": 237866,
+              "title": {
+                "romaji": "BLEACH"
+              }
+            }
+          },
+          {
+            "rating": 5,
+            "mediaRecommendation": {
+              "id": 136,
+              "popularity": 69282,
+              "title": {
+                "romaji": "HUNTER\u00d7HUNTER"
+              }
+            }
+          },
+          {
+            "rating": 5,
+            "mediaRecommendation": {
+              "id": 10033,
+              "popularity": 16044,
+              "title": {
+                "romaji": "Toriko"
+              }
+            }
+          },
+          {
+            "rating": 5,
+            "mediaRecommendation": {
+              "id": 987,
+              "popularity": 11030,
+              "title": {
+                "romaji": "Dragon Ball GT: Goku Gaiden! Yuuki no Akashi wa Suushinchuu"
+              }
+            }
+          },
+          {
+            "rating": 4,
+            "mediaRecommendation": {
+              "id": 2819,
+              "popularity": 1174,
+              "title": {
+                "romaji": "Dragon Quest: Abel Yuusha Densetsu"
+              }
+            }
+          },
+          {
+            "rating": 4,
+            "mediaRecommendation": {
+              "id": 3312,
+              "popularity": 2611,
+              "title": {
+                "romaji": "Dr. Slump"
+              }
+            }
+          },
+          {
+            "rating": 4,
+            "mediaRecommendation": {
+              "id": 6702,
+              "popularity": 220742,
+              "title": {
+                "romaji": "FAIRY TAIL"
+              }
+            }
+          },
+          {
+            "rating": 3,
+            "mediaRecommendation": {
+              "id": 4197,
+              "popularity": 2442,
+              "title": {
+                "romaji": "Blue Dragon: Tenkai no Shichi Ryuu"
+              }
+            }
+          },
+          {
+            "rating": 3,
+            "mediaRecommendation": {
+              "id": 2335,
+              "popularity": 1273,
+              "title": {
+                "romaji": "Kenyuu Densetsu YAIBA"
+              }
+            }
+          },
+          {
+            "rating": 3,
+            "mediaRecommendation": {
+              "id": 302,
+              "popularity": 8866,
+              "title": {
+                "romaji": "Mirai Shounen Conan"
+              }
+            }
+          },
+          {
+            "rating": 3,
+            "mediaRecommendation": {
+              "id": 21682,
+              "popularity": 4127,
+              "title": {
+                "romaji": "Tiger Mask W"
+              }
+            }
+          },
+          {
+            "rating": 2,
+            "mediaRecommendation": {
+              "id": 2142,
+              "popularity": 7072,
+              "title": {
+                "romaji": "Blue Dragon"
+              }
+            }
+          },
+          {
+            "rating": 2,
+            "mediaRecommendation": {
+              "id": 3214,
+              "popularity": 304,
+              "title": {
+                "romaji": "Kosuke-sama Rikimaru-sama: Konpeitou no Ryuu"
+              }
+            }
+          },
+          {
+            "rating": 2,
+            "mediaRecommendation": {
+              "id": 1751,
+              "popularity": 1065,
+              "title": {
+                "romaji": "Jikuu Bouken Nuumamonjaa"
+              }
+            }
+          },
+          {
+            "rating": 2,
+            "mediaRecommendation": {
+              "id": 210,
+              "popularity": 30327,
+              "title": {
+                "romaji": "Ranma 1/2"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "rating": 132,
+    "mediaRecommendation": {
+      "id": 813,
+      "popularity": 139830,
+      "title": {
+        "romaji": "Dragon Ball Z"
+      },
+      "recommendations": {
+        "nodes": [
+          {
+            "rating": 132,
+            "mediaRecommendation": {
+              "id": 21,
+              "popularity": 347642,
+              "title": {
+                "romaji": "ONE PIECE"
+              }
+            }
+          },
+          {
+            "rating": 89,
+            "mediaRecommendation": {
+              "id": 392,
+              "popularity": 90713,
+              "title": {
+                "romaji": "Yuu\u2606Yuu\u2606Hakusho"
+              }
+            }
+          },
+          {
+            "rating": 71,
+            "mediaRecommendation": {
+              "id": 1735,
+              "popularity": 346171,
+              "title": {
+                "romaji": "NARUTO: Shippuuden"
+              }
+            }
+          },
+          {
+            "rating": 39,
+            "mediaRecommendation": {
+              "id": 20,
+              "popularity": 405919,
+              "title": {
+                "romaji": "NARUTO"
+              }
+            }
+          },
+          {
+            "rating": 26,
+            "mediaRecommendation": {
+              "id": 1254,
+              "popularity": 23503,
+              "title": {
+                "romaji": "Saint Seiya"
+              }
+            }
+          },
+          {
+            "rating": 19,
+            "mediaRecommendation": {
+              "id": 114099,
+              "popularity": 13915,
+              "title": {
+                "romaji": "Dragon Quest: Dai no Daibouken (2020)"
+              }
+            }
+          },
+          {
+            "rating": 14,
+            "mediaRecommendation": {
+              "id": 97938,
+              "popularity": 143706,
+              "title": {
+                "romaji": "BORUTO: NARUTO NEXT GENERATIONS"
+              }
+            }
+          },
+          {
+            "rating": 13,
+            "mediaRecommendation": {
+              "id": 10033,
+              "popularity": 16044,
+              "title": {
+                "romaji": "Toriko"
+              }
+            }
+          },
+          {
+            "rating": 12,
+            "mediaRecommendation": {
+              "id": 116006,
+              "popularity": 178937,
+              "title": {
+                "romaji": "THE GOD OF HIGH SCHOOL"
+              }
+            }
+          },
+          {
+            "rating": 10,
+            "mediaRecommendation": {
+              "id": 269,
+              "popularity": 237866,
+              "title": {
+                "romaji": "BLEACH"
+              }
+            }
+          },
+          {
+            "rating": 8,
+            "mediaRecommendation": {
+              "id": 967,
+              "popularity": 19388,
+              "title": {
+                "romaji": "Hokuto no Ken"
+              }
+            }
+          },
+          {
+            "rating": 8,
+            "mediaRecommendation": {
+              "id": 102352,
+              "popularity": 14520,
+              "title": {
+                "romaji": "Super Dragon Ball Heroes"
+              }
+            }
+          },
+          {
+            "rating": 8,
+            "mediaRecommendation": {
+              "id": 21087,
+              "popularity": 444993,
+              "title": {
+                "romaji": "One Punch Man"
+              }
+            }
+          },
+          {
+            "rating": 7,
+            "mediaRecommendation": {
+              "id": 7900,
+              "popularity": 405,
+              "title": {
+                "romaji": "Super Kid"
+              }
+            }
+          },
+          {
+            "rating": 6,
+            "mediaRecommendation": {
+              "id": 987,
+              "popularity": 11030,
+              "title": {
+                "romaji": "Dragon Ball GT: Goku Gaiden! Yuuki no Akashi wa Suushinchuu"
+              }
+            }
+          },
+          {
+            "rating": 6,
+            "mediaRecommendation": {
+              "id": 97940,
+              "popularity": 306668,
+              "title": {
+                "romaji": "Black Clover"
+              }
+            }
+          },
+          {
+            "rating": 6,
+            "mediaRecommendation": {
+              "id": 97888,
+              "popularity": 61253,
+              "title": {
+                "romaji": "Baki"
+              }
+            }
+          },
+          {
+            "rating": 5,
+            "mediaRecommendation": {
+              "id": 20789,
+              "popularity": 322289,
+              "title": {
+                "romaji": "Nanatsu no Taizai"
+              }
+            }
+          },
+          {
+            "rating": 4,
+            "mediaRecommendation": {
+              "id": 14719,
+              "popularity": 272961,
+              "title": {
+                "romaji": "JoJo no Kimyou na Bouken (TV)"
+              }
+            }
+          },
+          {
+            "rating": 3,
+            "mediaRecommendation": {
+              "id": 117193,
+              "popularity": 224253,
+              "title": {
+                "romaji": "Boku no Hero Academia 5"
+              }
+            }
+          },
+          {
+            "rating": 3,
+            "mediaRecommendation": {
+              "id": 891,
+              "popularity": 8497,
+              "title": {
+                "romaji": "Dragon Ball: Majinjou no Nemuri Hime"
+              }
+            }
+          },
+          {
+            "rating": 3,
+            "mediaRecommendation": {
+              "id": 119683,
+              "popularity": 48664,
+              "title": {
+                "romaji": "EDENS ZERO"
+              }
+            }
+          },
+          {
+            "rating": 3,
+            "mediaRecommendation": {
+              "id": 2229,
+              "popularity": 3141,
+              "title": {
+                "romaji": "Dragon Quest: Dai no Daibouken"
+              }
+            }
+          },
+          {
+            "rating": 3,
+            "mediaRecommendation": {
+              "id": 2819,
+              "popularity": 1174,
+              "title": {
+                "romaji": "Dragon Quest: Abel Yuusha Densetsu"
+              }
+            }
+          },
+          {
+            "rating": 2,
+            "mediaRecommendation": {
+              "id": 2222,
+              "popularity": 2708,
+              "title": {
+                "romaji": "Dr. Slump: Arale-chan"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "rating": 125,
+    "mediaRecommendation": {
+      "id": 6702,
+      "popularity": 220742,
+      "title": {
+        "romaji": "FAIRY TAIL"
+      },
+      "recommendations": {
+        "nodes": [
+          {
+            "rating": 321,
+            "mediaRecommendation": {
+              "id": 97940,
+              "popularity": 306668,
+              "title": {
+                "romaji": "Black Clover"
+              }
+            }
+          },
+          {
+            "rating": 148,
+            "mediaRecommendation": {
+              "id": 119683,
+              "popularity": 48664,
+              "title": {
+                "romaji": "EDENS ZERO"
+              }
+            }
+          },
+          {
+            "rating": 125,
+            "mediaRecommendation": {
+              "id": 21,
+              "popularity": 347642,
+              "title": {
+                "romaji": "ONE PIECE"
+              }
+            }
+          },
+          {
+            "rating": 95,
+            "mediaRecommendation": {
+              "id": 1735,
+              "popularity": 346171,
+              "title": {
+                "romaji": "NARUTO: Shippuuden"
+              }
+            }
+          },
+          {
+            "rating": 87,
+            "mediaRecommendation": {
+              "id": 20789,
+              "popularity": 322289,
+              "title": {
+                "romaji": "Nanatsu no Taizai"
+              }
+            }
+          },
+          {
+            "rating": 50,
+            "mediaRecommendation": {
+              "id": 97938,
+              "popularity": 143706,
+              "title": {
+                "romaji": "BORUTO: NARUTO NEXT GENERATIONS"
+              }
+            }
+          },
+          {
+            "rating": 47,
+            "mediaRecommendation": {
+              "id": 14513,
+              "popularity": 138786,
+              "title": {
+                "romaji": "Magi: The labyrinth of magic"
+              }
+            }
+          },
+          {
+            "rating": 31,
+            "mediaRecommendation": {
+              "id": 246,
+              "popularity": 12452,
+              "title": {
+                "romaji": "GROOVE ADVENTURE RAVE"
+              }
+            }
+          },
+          {
+            "rating": 26,
+            "mediaRecommendation": {
+              "id": 101024,
+              "popularity": 40223,
+              "title": {
+                "romaji": "Radiant"
+              }
+            }
+          },
+          {
+            "rating": 21,
+            "mediaRecommendation": {
+              "id": 108928,
+              "popularity": 122748,
+              "title": {
+                "romaji": "Nanatsu no Taizai: Kamigami no Gekirin"
+              }
+            }
+          },
+          {
+            "rating": 10,
+            "mediaRecommendation": {
+              "id": 128034,
+              "popularity": 19961,
+              "title": {
+                "romaji": "ORIENT"
+              }
+            }
+          },
+          {
+            "rating": 8,
+            "mediaRecommendation": {
+              "id": 21459,
+              "popularity": 524015,
+              "title": {
+                "romaji": "Boku no Hero Academia"
+              }
+            }
+          },
+          {
+            "rating": 8,
+            "mediaRecommendation": {
+              "id": 117193,
+              "popularity": 224253,
+              "title": {
+                "romaji": "Boku no Hero Academia 5"
+              }
+            }
+          },
+          {
+            "rating": 7,
+            "mediaRecommendation": {
+              "id": 1604,
+              "popularity": 62185,
+              "title": {
+                "romaji": "Katekyou Hitman REBORN!"
+              }
+            }
+          },
+          {
+            "rating": 7,
+            "mediaRecommendation": {
+              "id": 20,
+              "popularity": 405919,
+              "title": {
+                "romaji": "NARUTO"
+              }
+            }
+          },
+          {
+            "rating": 5,
+            "mediaRecommendation": {
+              "id": 126659,
+              "popularity": 50573,
+              "title": {
+                "romaji": "Boku no Hero Academia THE MOVIE: World Heroes' Mission"
+              }
+            }
+          },
+          {
+            "rating": 5,
+            "mediaRecommendation": {
+              "id": 99749,
+              "popularity": 84928,
+              "title": {
+                "romaji": "FAIRY TAIL (2018)"
+              }
+            }
+          },
+          {
+            "rating": 5,
+            "mediaRecommendation": {
+              "id": 20613,
+              "popularity": 316768,
+              "title": {
+                "romaji": "Akame ga Kill!"
+              }
+            }
+          },
+          {
+            "rating": 4,
+            "mediaRecommendation": {
+              "id": 3588,
+              "popularity": 214348,
+              "title": {
+                "romaji": "Soul Eater"
+              }
+            }
+          },
+          {
+            "rating": 4,
+            "mediaRecommendation": {
+              "id": 223,
+              "popularity": 121995,
+              "title": {
+                "romaji": "Dragon Ball"
+              }
+            }
+          },
+          {
+            "rating": 3,
+            "mediaRecommendation": {
+              "id": 18115,
+              "popularity": 106653,
+              "title": {
+                "romaji": "Magi: The kingdom of magic"
+              }
+            }
+          },
+          {
+            "rating": 3,
+            "mediaRecommendation": {
+              "id": 108040,
+              "popularity": 19181,
+              "title": {
+                "romaji": "Radiant 2"
+              }
+            }
+          },
+          {
+            "rating": 2,
+            "mediaRecommendation": {
+              "id": 9919,
+              "popularity": 289305,
+              "title": {
+                "romaji": "Ao no Exorcist"
+              }
+            }
+          },
+          {
+            "rating": 2,
+            "mediaRecommendation": {
+              "id": 101922,
+              "popularity": 539103,
+              "title": {
+                "romaji": "Kimetsu no Yaiba"
+              }
+            }
+          },
+          {
+            "rating": 1,
+            "mediaRecommendation": {
+              "id": 136,
+              "popularity": 69282,
+              "title": {
+                "romaji": "HUNTER\u00d7HUNTER"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "rating": 85,
+    "mediaRecommendation": {
+      "id": 269,
+      "popularity": 237866,
+      "title": {
+        "romaji": "BLEACH"
+      },
+      "recommendations": {
+        "nodes": [
+          {
+            "rating": 821,
+            "mediaRecommendation": {
+              "id": 113415,
+              "popularity": 458486,
+              "title": {
+                "romaji": "Jujutsu Kaisen"
+              }
+            }
+          },
+          {
+            "rating": 273,
+            "mediaRecommendation": {
+              "id": 101922,
+              "popularity": 539103,
+              "title": {
+                "romaji": "Kimetsu no Yaiba"
+              }
+            }
+          },
+          {
+            "rating": 248,
+            "mediaRecommendation": {
+              "id": 1735,
+              "popularity": 346171,
+              "title": {
+                "romaji": "NARUTO: Shippuuden"
+              }
+            }
+          },
+          {
+            "rating": 200,
+            "mediaRecommendation": {
+              "id": 20,
+              "popularity": 405919,
+              "title": {
+                "romaji": "NARUTO"
+              }
+            }
+          },
+          {
+            "rating": 132,
+            "mediaRecommendation": {
+              "id": 392,
+              "popularity": 90713,
+              "title": {
+                "romaji": "Yuu\u2606Yuu\u2606Hakusho"
+              }
+            }
+          },
+          {
+            "rating": 132,
+            "mediaRecommendation": {
+              "id": 116673,
+              "popularity": 56276,
+              "title": {
+                "romaji": "BURN THE WITCH"
+              }
+            }
+          },
+          {
+            "rating": 85,
+            "mediaRecommendation": {
+              "id": 21,
+              "popularity": 347642,
+              "title": {
+                "romaji": "ONE PIECE"
+              }
+            }
+          },
+          {
+            "rating": 75,
+            "mediaRecommendation": {
+              "id": 119675,
+              "popularity": 53081,
+              "title": {
+                "romaji": "SHAMAN KING (2021)"
+              }
+            }
+          },
+          {
+            "rating": 73,
+            "mediaRecommendation": {
+              "id": 1482,
+              "popularity": 71284,
+              "title": {
+                "romaji": "D.Gray-man"
+              }
+            }
+          },
+          {
+            "rating": 72,
+            "mediaRecommendation": {
+              "id": 97940,
+              "popularity": 306668,
+              "title": {
+                "romaji": "Black Clover"
+              }
+            }
+          },
+          {
+            "rating": 56,
+            "mediaRecommendation": {
+              "id": 142329,
+              "popularity": 176196,
+              "title": {
+                "romaji": "Kimetsu no Yaiba: Yuukaku-hen"
+              }
+            }
+          },
+          {
+            "rating": 49,
+            "mediaRecommendation": {
+              "id": 1604,
+              "popularity": 62185,
+              "title": {
+                "romaji": "Katekyou Hitman REBORN!"
+              }
+            }
+          },
+          {
+            "rating": 39,
+            "mediaRecommendation": {
+              "id": 20447,
+              "popularity": 339441,
+              "title": {
+                "romaji": "Noragami"
+              }
+            }
+          },
+          {
+            "rating": 36,
+            "mediaRecommendation": {
+              "id": 115230,
+              "popularity": 179777,
+              "title": {
+                "romaji": "Kami no Tou: Tower of God"
+              }
+            }
+          },
+          {
+            "rating": 33,
+            "mediaRecommendation": {
+              "id": 20789,
+              "popularity": 322289,
+              "title": {
+                "romaji": "Nanatsu no Taizai"
+              }
+            }
+          },
+          {
+            "rating": 28,
+            "mediaRecommendation": {
+              "id": 3588,
+              "popularity": 214348,
+              "title": {
+                "romaji": "Soul Eater"
+              }
+            }
+          },
+          {
+            "rating": 27,
+            "mediaRecommendation": {
+              "id": 131573,
+              "popularity": 117592,
+              "title": {
+                "romaji": "Jujutsu Kaisen 0"
+              }
+            }
+          },
+          {
+            "rating": 27,
+            "mediaRecommendation": {
+              "id": 129874,
+              "popularity": 148195,
+              "title": {
+                "romaji": "Kimetsu no Yaiba: Mugen Ressha-hen (TV)"
+              }
+            }
+          },
+          {
+            "rating": 24,
+            "mediaRecommendation": {
+              "id": 11061,
+              "popularity": 484456,
+              "title": {
+                "romaji": "HUNTER\u00d7HUNTER (2011)"
+              }
+            }
+          },
+          {
+            "rating": 20,
+            "mediaRecommendation": {
+              "id": 101168,
+              "popularity": 67004,
+              "title": {
+                "romaji": "Plunderer"
+              }
+            }
+          },
+          {
+            "rating": 18,
+            "mediaRecommendation": {
+              "id": 918,
+              "popularity": 169565,
+              "title": {
+                "romaji": "Gintama"
+              }
+            }
+          },
+          {
+            "rating": 18,
+            "mediaRecommendation": {
+              "id": 114236,
+              "popularity": 158407,
+              "title": {
+                "romaji": "Enen no Shouboutai: Ni no Shou"
+              }
+            }
+          },
+          {
+            "rating": 17,
+            "mediaRecommendation": {
+              "id": 154,
+              "popularity": 38111,
+              "title": {
+                "romaji": "Shaman King"
+              }
+            }
+          },
+          {
+            "rating": 15,
+            "mediaRecommendation": {
+              "id": 249,
+              "popularity": 101790,
+              "title": {
+                "romaji": "Inuyasha"
+              }
+            }
+          },
+          {
+            "rating": 12,
+            "mediaRecommendation": {
+              "id": 21038,
+              "popularity": 31801,
+              "title": {
+                "romaji": "Ushio to Tora (TV)"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "rating": 55,
+    "mediaRecommendation": {
+      "id": 5114,
+      "popularity": 416497,
+      "title": {
+        "romaji": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST"
+      },
+      "recommendations": {
+        "nodes": [
+          {
+            "rating": 2146,
+            "mediaRecommendation": {
+              "id": 11061,
+              "popularity": 484456,
+              "title": {
+                "romaji": "HUNTER\u00d7HUNTER (2011)"
+              }
+            }
+          },
+          {
+            "rating": 297,
+            "mediaRecommendation": {
+              "id": 104578,
+              "popularity": 337224,
+              "title": {
+                "romaji": "Shingeki no Kyojin 3 Part 2"
+              }
+            }
+          },
+          {
+            "rating": 176,
+            "mediaRecommendation": {
+              "id": 101922,
+              "popularity": 539103,
+              "title": {
+                "romaji": "Kimetsu no Yaiba"
+              }
+            }
+          },
+          {
+            "rating": 170,
+            "mediaRecommendation": {
+              "id": 3588,
+              "popularity": 214348,
+              "title": {
+                "romaji": "Soul Eater"
+              }
+            }
+          },
+          {
+            "rating": 105,
+            "mediaRecommendation": {
+              "id": 1482,
+              "popularity": 71284,
+              "title": {
+                "romaji": "D.Gray-man"
+              }
+            }
+          },
+          {
+            "rating": 55,
+            "mediaRecommendation": {
+              "id": 21,
+              "popularity": 347642,
+              "title": {
+                "romaji": "ONE PIECE"
+              }
+            }
+          },
+          {
+            "rating": 49,
+            "mediaRecommendation": {
+              "id": 11741,
+              "popularity": 154246,
+              "title": {
+                "romaji": "Fate/Zero 2nd Season"
+              }
+            }
+          },
+          {
+            "rating": 45,
+            "mediaRecommendation": {
+              "id": 1735,
+              "popularity": 346171,
+              "title": {
+                "romaji": "NARUTO: Shippuuden"
+              }
+            }
+          },
+          {
+            "rating": 43,
+            "mediaRecommendation": {
+              "id": 16498,
+              "popularity": 587454,
+              "title": {
+                "romaji": "Shingeki no Kyojin"
+              }
+            }
+          },
+          {
+            "rating": 30,
+            "mediaRecommendation": {
+              "id": 99147,
+              "popularity": 386081,
+              "title": {
+                "romaji": "Shingeki no Kyojin 3"
+              }
+            }
+          },
+          {
+            "rating": 29,
+            "mediaRecommendation": {
+              "id": 101347,
+              "popularity": 202980,
+              "title": {
+                "romaji": "Dororo"
+              }
+            }
+          },
+          {
+            "rating": 26,
+            "mediaRecommendation": {
+              "id": 129874,
+              "popularity": 148195,
+              "title": {
+                "romaji": "Kimetsu no Yaiba: Mugen Ressha-hen (TV)"
+              }
+            }
+          },
+          {
+            "rating": 20,
+            "mediaRecommendation": {
+              "id": 114236,
+              "popularity": 158407,
+              "title": {
+                "romaji": "Enen no Shouboutai: Ni no Shou"
+              }
+            }
+          },
+          {
+            "rating": 19,
+            "mediaRecommendation": {
+              "id": 113415,
+              "popularity": 458486,
+              "title": {
+                "romaji": "Jujutsu Kaisen"
+              }
+            }
+          },
+          {
+            "rating": 18,
+            "mediaRecommendation": {
+              "id": 99699,
+              "popularity": 69009,
+              "title": {
+                "romaji": "Golden Kamuy"
+              }
+            }
+          },
+          {
+            "rating": 15,
+            "mediaRecommendation": {
+              "id": 101759,
+              "popularity": 392724,
+              "title": {
+                "romaji": "Yakusoku no Neverland"
+              }
+            }
+          },
+          {
+            "rating": 15,
+            "mediaRecommendation": {
+              "id": 113717,
+              "popularity": 93506,
+              "title": {
+                "romaji": "Ousama Ranking"
+              }
+            }
+          },
+          {
+            "rating": 10,
+            "mediaRecommendation": {
+              "id": 112151,
+              "popularity": 256041,
+              "title": {
+                "romaji": "Kimetsu no Yaiba: Mugen Ressha-hen"
+              }
+            }
+          },
+          {
+            "rating": 9,
+            "mediaRecommendation": {
+              "id": 102883,
+              "popularity": 166320,
+              "title": {
+                "romaji": "JoJo no Kimyou na Bouken: Ougon no Kaze"
+              }
+            }
+          },
+          {
+            "rating": 9,
+            "mediaRecommendation": {
+              "id": 14513,
+              "popularity": 138786,
+              "title": {
+                "romaji": "Magi: The labyrinth of magic"
+              }
+            }
+          },
+          {
+            "rating": 8,
+            "mediaRecommendation": {
+              "id": 1536,
+              "popularity": 18043,
+              "title": {
+                "romaji": "Busou Renkin"
+              }
+            }
+          },
+          {
+            "rating": 7,
+            "mediaRecommendation": {
+              "id": 131646,
+              "popularity": 99287,
+              "title": {
+                "romaji": "Vanitas no Carte"
+              }
+            }
+          },
+          {
+            "rating": 6,
+            "mediaRecommendation": {
+              "id": 6,
+              "popularity": 87565,
+              "title": {
+                "romaji": "TRIGUN"
+              }
+            }
+          },
+          {
+            "rating": 6,
+            "mediaRecommendation": {
+              "id": 104107,
+              "popularity": 143,
+              "title": {
+                "romaji": "Uobbuchou"
+              }
+            }
+          },
+          {
+            "rating": 5,
+            "mediaRecommendation": {
+              "id": 908,
+              "popularity": 8681,
+              "title": {
+                "romaji": "Hagane no Renkinjutsushi: PREMIUM COLLECTION"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "rating": 46,
+    "mediaRecommendation": {
+      "id": 1604,
+      "popularity": 62185,
+      "title": {
+        "romaji": "Katekyou Hitman REBORN!"
+      },
+      "recommendations": {
+        "nodes": [
+          {
+            "rating": 49,
+            "mediaRecommendation": {
+              "id": 269,
+              "popularity": 237866,
+              "title": {
+                "romaji": "BLEACH"
+              }
+            }
+          },
+          {
+            "rating": 49,
+            "mediaRecommendation": {
+              "id": 9513,
+              "popularity": 65874,
+              "title": {
+                "romaji": "Beelzebub"
+              }
+            }
+          },
+          {
+            "rating": 46,
+            "mediaRecommendation": {
+              "id": 21,
+              "popularity": 347642,
+              "title": {
+                "romaji": "ONE PIECE"
+              }
+            }
+          },
+          {
+            "rating": 24,
+            "mediaRecommendation": {
+              "id": 20755,
+              "popularity": 371296,
+              "title": {
+                "romaji": "Ansatsu Kyoushitsu"
+              }
+            }
+          },
+          {
+            "rating": 17,
+            "mediaRecommendation": {
+              "id": 107693,
+              "popularity": 74293,
+              "title": {
+                "romaji": "Mairimashita! Iruma-kun"
+              }
+            }
+          },
+          {
+            "rating": 16,
+            "mediaRecommendation": {
+              "id": 21459,
+              "popularity": 524015,
+              "title": {
+                "romaji": "Boku no Hero Academia"
+              }
+            }
+          },
+          {
+            "rating": 12,
+            "mediaRecommendation": {
+              "id": 1559,
+              "popularity": 30977,
+              "title": {
+                "romaji": "Shijou Saikyou no Deshi Kenichi"
+              }
+            }
+          },
+          {
+            "rating": 8,
+            "mediaRecommendation": {
+              "id": 21311,
+              "popularity": 236209,
+              "title": {
+                "romaji": "Bungou Stray Dogs"
+              }
+            }
+          },
+          {
+            "rating": 8,
+            "mediaRecommendation": {
+              "id": 97940,
+              "popularity": 306668,
+              "title": {
+                "romaji": "Black Clover"
+              }
+            }
+          },
+          {
+            "rating": 7,
+            "mediaRecommendation": {
+              "id": 7592,
+              "popularity": 31889,
+              "title": {
+                "romaji": "Nurarihyon no Mago"
+              }
+            }
+          },
+          {
+            "rating": 7,
+            "mediaRecommendation": {
+              "id": 6702,
+              "popularity": 220742,
+              "title": {
+                "romaji": "FAIRY TAIL"
+              }
+            }
+          },
+          {
+            "rating": 7,
+            "mediaRecommendation": {
+              "id": 21677,
+              "popularity": 7976,
+              "title": {
+                "romaji": "\u0113lDLIVE"
+              }
+            }
+          },
+          {
+            "rating": 6,
+            "mediaRecommendation": {
+              "id": 102883,
+              "popularity": 166320,
+              "title": {
+                "romaji": "JoJo no Kimyou na Bouken: Ougon no Kaze"
+              }
+            }
+          },
+          {
+            "rating": 5,
+            "mediaRecommendation": {
+              "id": 918,
+              "popularity": 169565,
+              "title": {
+                "romaji": "Gintama"
+              }
+            }
+          },
+          {
+            "rating": 5,
+            "mediaRecommendation": {
+              "id": 20,
+              "popularity": 405919,
+              "title": {
+                "romaji": "NARUTO"
+              }
+            }
+          },
+          {
+            "rating": 5,
+            "mediaRecommendation": {
+              "id": 15,
+              "popularity": 21333,
+              "title": {
+                "romaji": "Eyeshield 21"
+              }
+            }
+          },
+          {
+            "rating": 4,
+            "mediaRecommendation": {
+              "id": 116338,
+              "popularity": 46485,
+              "title": {
+                "romaji": "Mairimashita! Iruma-kun 2"
+              }
+            }
+          },
+          {
+            "rating": 3,
+            "mediaRecommendation": {
+              "id": 12967,
+              "popularity": 22261,
+              "title": {
+                "romaji": "Arcana Famiglia: La Storia Della Arcana Famiglia"
+              }
+            }
+          },
+          {
+            "rating": 3,
+            "mediaRecommendation": {
+              "id": 105310,
+              "popularity": 248021,
+              "title": {
+                "romaji": "Enen no Shouboutai"
+              }
+            }
+          },
+          {
+            "rating": 2,
+            "mediaRecommendation": {
+              "id": 738,
+              "popularity": 6209,
+              "title": {
+                "romaji": "M\u00c4R"
+              }
+            }
+          },
+          {
+            "rating": 1,
+            "mediaRecommendation": {
+              "id": 20913,
+              "popularity": 43853,
+              "title": {
+                "romaji": "K: Return Of Kings"
+              }
+            }
+          },
+          {
+            "rating": -1,
+            "mediaRecommendation": {
+              "id": 1735,
+              "popularity": 346171,
+              "title": {
+                "romaji": "NARUTO: Shippuuden"
+              }
+            }
+          },
+          {
+            "rating": -1,
+            "mediaRecommendation": {
+              "id": 118103,
+              "popularity": 16836,
+              "title": {
+                "romaji": "Kyuuketsuki Sugu Shinu"
+              }
+            }
+          },
+          {
+            "rating": -1,
+            "mediaRecommendation": {
+              "id": 3455,
+              "popularity": 83201,
+              "title": {
+                "romaji": "To LOVE-Ru"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "rating": 42,
+    "mediaRecommendation": {
+      "id": 918,
+      "popularity": 169565,
+      "title": {
+        "romaji": "Gintama"
+      },
+      "recommendations": {
+        "nodes": [
+          {
+            "rating": 405,
+            "mediaRecommendation": {
+              "id": 21804,
+              "popularity": 199216,
+              "title": {
+                "romaji": "Saiki Kusuo no \u03a8-nan"
+              }
+            }
+          },
+          {
+            "rating": 166,
+            "mediaRecommendation": {
+              "id": 11843,
+              "popularity": 119927,
+              "title": {
+                "romaji": "Danshi Koukousei no Nichijou"
+              }
+            }
+          },
+          {
+            "rating": 131,
+            "mediaRecommendation": {
+              "id": 100922,
+              "popularity": 120776,
+              "title": {
+                "romaji": "Grand Blue"
+              }
+            }
+          },
+          {
+            "rating": 128,
+            "mediaRecommendation": {
+              "id": 9863,
+              "popularity": 31124,
+              "title": {
+                "romaji": "SKET DANCE"
+              }
+            }
+          },
+          {
+            "rating": 116,
+            "mediaRecommendation": {
+              "id": 245,
+              "popularity": 92399,
+              "title": {
+                "romaji": "GTO"
+              }
+            }
+          },
+          {
+            "rating": 75,
+            "mediaRecommendation": {
+              "id": 21202,
+              "popularity": 296348,
+              "title": {
+                "romaji": "Kono Subarashii Sekai ni Shukufuku wo!"
+              }
+            }
+          },
+          {
+            "rating": 70,
+            "mediaRecommendation": {
+              "id": 114129,
+              "popularity": 23496,
+              "title": {
+                "romaji": "Gintama: THE FINAL"
+              }
+            }
+          },
+          {
+            "rating": 44,
+            "mediaRecommendation": {
+              "id": 100077,
+              "popularity": 93599,
+              "title": {
+                "romaji": "Hinamatsuri"
+              }
+            }
+          },
+          {
+            "rating": 42,
+            "mediaRecommendation": {
+              "id": 21,
+              "popularity": 347642,
+              "title": {
+                "romaji": "ONE PIECE"
+              }
+            }
+          },
+          {
+            "rating": 42,
+            "mediaRecommendation": {
+              "id": 99699,
+              "popularity": 69009,
+              "title": {
+                "romaji": "Golden Kamuy"
+              }
+            }
+          },
+          {
+            "rating": 34,
+            "mediaRecommendation": {
+              "id": 101338,
+              "popularity": 249040,
+              "title": {
+                "romaji": "Mob Psycho 100 II"
+              }
+            }
+          },
+          {
+            "rating": 33,
+            "mediaRecommendation": {
+              "id": 112625,
+              "popularity": 55889,
+              "title": {
+                "romaji": "Saiki Kusuo no \u03a8-nan: \u03a8-shidou-hen"
+              }
+            }
+          },
+          {
+            "rating": 28,
+            "mediaRecommendation": {
+              "id": 21507,
+              "popularity": 339830,
+              "title": {
+                "romaji": "Mob Psycho 100"
+              }
+            }
+          },
+          {
+            "rating": 26,
+            "mediaRecommendation": {
+              "id": 101925,
+              "popularity": 33393,
+              "title": {
+                "romaji": "Gintama.: Shirogane no Tamashii-hen - Kouhan-sen"
+              }
+            }
+          },
+          {
+            "rating": 26,
+            "mediaRecommendation": {
+              "id": 9513,
+              "popularity": 65874,
+              "title": {
+                "romaji": "Beelzebub"
+              }
+            }
+          },
+          {
+            "rating": 26,
+            "mediaRecommendation": {
+              "id": 205,
+              "popularity": 157066,
+              "title": {
+                "romaji": "Samurai Champloo"
+              }
+            }
+          },
+          {
+            "rating": 25,
+            "mediaRecommendation": {
+              "id": 21261,
+              "popularity": 29128,
+              "title": {
+                "romaji": "Osomatsu-san"
+              }
+            }
+          },
+          {
+            "rating": 19,
+            "mediaRecommendation": {
+              "id": 21087,
+              "popularity": 444993,
+              "title": {
+                "romaji": "One Punch Man"
+              }
+            }
+          },
+          {
+            "rating": 19,
+            "mediaRecommendation": {
+              "id": 110355,
+              "popularity": 26082,
+              "title": {
+                "romaji": "Golden Kamuy 3"
+              }
+            }
+          },
+          {
+            "rating": 19,
+            "mediaRecommendation": {
+              "id": 45,
+              "popularity": 55301,
+              "title": {
+                "romaji": "Rurouni Kenshin: Meiji Kenkaku Romantan"
+              }
+            }
+          },
+          {
+            "rating": 18,
+            "mediaRecommendation": {
+              "id": 269,
+              "popularity": 237866,
+              "title": {
+                "romaji": "BLEACH"
+              }
+            }
+          },
+          {
+            "rating": 18,
+            "mediaRecommendation": {
+              "id": 100784,
+              "popularity": 36642,
+              "title": {
+                "romaji": "Gintama.: Shirogane no Tamashii-hen"
+              }
+            }
+          },
+          {
+            "rating": 17,
+            "mediaRecommendation": {
+              "id": 104580,
+              "popularity": 52443,
+              "title": {
+                "romaji": "Saiki Kusuo no \u03a8-nan: Kanketsu-hen"
+              }
+            }
+          },
+          {
+            "rating": 14,
+            "mediaRecommendation": {
+              "id": 1050,
+              "popularity": 12830,
+              "title": {
+                "romaji": "Bobobo-bo Bo-bobo"
+              }
+            }
+          },
+          {
+            "rating": 14,
+            "mediaRecommendation": {
+              "id": 516,
+              "popularity": 10453,
+              "title": {
+                "romaji": "Keroro Gunsou"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "rating": 40,
+    "mediaRecommendation": {
+      "id": 136,
+      "popularity": 69282,
+      "title": {
+        "romaji": "HUNTER\u00d7HUNTER"
+      },
+      "recommendations": {
+        "nodes": [
+          {
+            "rating": 135,
+            "mediaRecommendation": {
+              "id": 392,
+              "popularity": 90713,
+              "title": {
+                "romaji": "Yuu\u2606Yuu\u2606Hakusho"
+              }
+            }
+          },
+          {
+            "rating": 70,
+            "mediaRecommendation": {
+              "id": 121,
+              "popularity": 154061,
+              "title": {
+                "romaji": "Hagane no Renkinjutsushi"
+              }
+            }
+          },
+          {
+            "rating": 40,
+            "mediaRecommendation": {
+              "id": 21,
+              "popularity": 347642,
+              "title": {
+                "romaji": "ONE PIECE"
+              }
+            }
+          },
+          {
+            "rating": 27,
+            "mediaRecommendation": {
+              "id": 20,
+              "popularity": 405919,
+              "title": {
+                "romaji": "NARUTO"
+              }
+            }
+          },
+          {
+            "rating": 18,
+            "mediaRecommendation": {
+              "id": 21459,
+              "popularity": 524015,
+              "title": {
+                "romaji": "Boku no Hero Academia"
+              }
+            }
+          },
+          {
+            "rating": 15,
+            "mediaRecommendation": {
+              "id": 45,
+              "popularity": 55301,
+              "title": {
+                "romaji": "Rurouni Kenshin: Meiji Kenkaku Romantan"
+              }
+            }
+          },
+          {
+            "rating": 15,
+            "mediaRecommendation": {
+              "id": 113415,
+              "popularity": 458486,
+              "title": {
+                "romaji": "Jujutsu Kaisen"
+              }
+            }
+          },
+          {
+            "rating": 12,
+            "mediaRecommendation": {
+              "id": 114099,
+              "popularity": 13915,
+              "title": {
+                "romaji": "Dragon Quest: Dai no Daibouken (2020)"
+              }
+            }
+          },
+          {
+            "rating": 8,
+            "mediaRecommendation": {
+              "id": 115230,
+              "popularity": 179777,
+              "title": {
+                "romaji": "Kami no Tou: Tower of God"
+              }
+            }
+          },
+          {
+            "rating": 7,
+            "mediaRecommendation": {
+              "id": 2229,
+              "popularity": 3141,
+              "title": {
+                "romaji": "Dragon Quest: Dai no Daibouken"
+              }
+            }
+          },
+          {
+            "rating": 5,
+            "mediaRecommendation": {
+              "id": 223,
+              "popularity": 121995,
+              "title": {
+                "romaji": "Dragon Ball"
+              }
+            }
+          },
+          {
+            "rating": 5,
+            "mediaRecommendation": {
+              "id": 138,
+              "popularity": 19238,
+              "title": {
+                "romaji": "HUNTER\u00d7HUNTER: Greed Island"
+              }
+            }
+          },
+          {
+            "rating": 5,
+            "mediaRecommendation": {
+              "id": 97986,
+              "popularity": 217172,
+              "title": {
+                "romaji": "Made in Abyss"
+              }
+            }
+          },
+          {
+            "rating": 4,
+            "mediaRecommendation": {
+              "id": 527,
+              "popularity": 81404,
+              "title": {
+                "romaji": "Pocket Monsters"
+              }
+            }
+          },
+          {
+            "rating": 4,
+            "mediaRecommendation": {
+              "id": 1735,
+              "popularity": 346171,
+              "title": {
+                "romaji": "NARUTO: Shippuuden"
+              }
+            }
+          },
+          {
+            "rating": 3,
+            "mediaRecommendation": {
+              "id": 19951,
+              "popularity": 33275,
+              "title": {
+                "romaji": "HUNTERxHUNTER: THE LAST MISSION"
+              }
+            }
+          },
+          {
+            "rating": 3,
+            "mediaRecommendation": {
+              "id": 119675,
+              "popularity": 53081,
+              "title": {
+                "romaji": "SHAMAN KING (2021)"
+              }
+            }
+          },
+          {
+            "rating": 3,
+            "mediaRecommendation": {
+              "id": 5114,
+              "popularity": 416497,
+              "title": {
+                "romaji": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST"
+              }
+            }
+          },
+          {
+            "rating": 2,
+            "mediaRecommendation": {
+              "id": 2142,
+              "popularity": 7072,
+              "title": {
+                "romaji": "Blue Dragon"
+              }
+            }
+          },
+          {
+            "rating": 2,
+            "mediaRecommendation": {
+              "id": 101338,
+              "popularity": 249040,
+              "title": {
+                "romaji": "Mob Psycho 100 II"
+              }
+            }
+          },
+          {
+            "rating": 2,
+            "mediaRecommendation": {
+              "id": 21507,
+              "popularity": 339830,
+              "title": {
+                "romaji": "Mob Psycho 100"
+              }
+            }
+          },
+          {
+            "rating": 1,
+            "mediaRecommendation": {
+              "id": 6702,
+              "popularity": 220742,
+              "title": {
+                "romaji": "FAIRY TAIL"
+              }
+            }
+          },
+          {
+            "rating": 1,
+            "mediaRecommendation": {
+              "id": 135,
+              "popularity": 16651,
+              "title": {
+                "romaji": "Hikaru no Go"
+              }
+            }
+          },
+          {
+            "rating": 1,
+            "mediaRecommendation": {
+              "id": 20849,
+              "popularity": 73287,
+              "title": {
+                "romaji": "God Eater"
+              }
+            }
+          },
+          {
+            "rating": 1,
+            "mediaRecommendation": {
+              "id": 534,
+              "popularity": 17715,
+              "title": {
+                "romaji": "Slayers"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "rating": 37,
+    "mediaRecommendation": {
+      "id": 21459,
+      "popularity": 524015,
+      "title": {
+        "romaji": "Boku no Hero Academia"
+      },
+      "recommendations": {
+        "nodes": [
+          {
+            "rating": 286,
+            "mediaRecommendation": {
+              "id": 20,
+              "popularity": 405919,
+              "title": {
+                "romaji": "NARUTO"
+              }
+            }
+          },
+          {
+            "rating": 269,
+            "mediaRecommendation": {
+              "id": 97940,
+              "popularity": 306668,
+              "title": {
+                "romaji": "Black Clover"
+              }
+            }
+          },
+          {
+            "rating": 197,
+            "mediaRecommendation": {
+              "id": 21087,
+              "popularity": 444993,
+              "title": {
+                "romaji": "One Punch Man"
+              }
+            }
+          },
+          {
+            "rating": 144,
+            "mediaRecommendation": {
+              "id": 20755,
+              "popularity": 371296,
+              "title": {
+                "romaji": "Ansatsu Kyoushitsu"
+              }
+            }
+          },
+          {
+            "rating": 138,
+            "mediaRecommendation": {
+              "id": 11061,
+              "popularity": 484456,
+              "title": {
+                "romaji": "HUNTER\u00d7HUNTER (2011)"
+              }
+            }
+          },
+          {
+            "rating": 95,
+            "mediaRecommendation": {
+              "id": 112151,
+              "popularity": 256041,
+              "title": {
+                "romaji": "Kimetsu no Yaiba: Mugen Ressha-hen"
+              }
+            }
+          },
+          {
+            "rating": 82,
+            "mediaRecommendation": {
+              "id": 105310,
+              "popularity": 248021,
+              "title": {
+                "romaji": "Enen no Shouboutai"
+              }
+            }
+          },
+          {
+            "rating": 78,
+            "mediaRecommendation": {
+              "id": 1735,
+              "popularity": 346171,
+              "title": {
+                "romaji": "NARUTO: Shippuuden"
+              }
+            }
+          },
+          {
+            "rating": 71,
+            "mediaRecommendation": {
+              "id": 97938,
+              "popularity": 143706,
+              "title": {
+                "romaji": "BORUTO: NARUTO NEXT GENERATIONS"
+              }
+            }
+          },
+          {
+            "rating": 40,
+            "mediaRecommendation": {
+              "id": 113415,
+              "popularity": 458486,
+              "title": {
+                "romaji": "Jujutsu Kaisen"
+              }
+            }
+          },
+          {
+            "rating": 37,
+            "mediaRecommendation": {
+              "id": 21,
+              "popularity": 347642,
+              "title": {
+                "romaji": "ONE PIECE"
+              }
+            }
+          },
+          {
+            "rating": 29,
+            "mediaRecommendation": {
+              "id": 101922,
+              "popularity": 539103,
+              "title": {
+                "romaji": "Kimetsu no Yaiba"
+              }
+            }
+          },
+          {
+            "rating": 26,
+            "mediaRecommendation": {
+              "id": 126659,
+              "popularity": 50573,
+              "title": {
+                "romaji": "Boku no Hero Academia THE MOVIE: World Heroes' Mission"
+              }
+            }
+          },
+          {
+            "rating": 24,
+            "mediaRecommendation": {
+              "id": 104276,
+              "popularity": 317373,
+              "title": {
+                "romaji": "Boku no Hero Academia 4"
+              }
+            }
+          },
+          {
+            "rating": 24,
+            "mediaRecommendation": {
+              "id": 142329,
+              "popularity": 176196,
+              "title": {
+                "romaji": "Kimetsu no Yaiba: Yuukaku-hen"
+              }
+            }
+          },
+          {
+            "rating": 22,
+            "mediaRecommendation": {
+              "id": 21507,
+              "popularity": 339830,
+              "title": {
+                "romaji": "Mob Psycho 100"
+              }
+            }
+          },
+          {
+            "rating": 18,
+            "mediaRecommendation": {
+              "id": 136,
+              "popularity": 69282,
+              "title": {
+                "romaji": "HUNTER\u00d7HUNTER"
+              }
+            }
+          },
+          {
+            "rating": 17,
+            "mediaRecommendation": {
+              "id": 117343,
+              "popularity": 65438,
+              "title": {
+                "romaji": "Munou na Nana"
+              }
+            }
+          },
+          {
+            "rating": 16,
+            "mediaRecommendation": {
+              "id": 129874,
+              "popularity": 148195,
+              "title": {
+                "romaji": "Kimetsu no Yaiba: Mugen Ressha-hen (TV)"
+              }
+            }
+          },
+          {
+            "rating": 16,
+            "mediaRecommendation": {
+              "id": 107693,
+              "popularity": 74293,
+              "title": {
+                "romaji": "Mairimashita! Iruma-kun"
+              }
+            }
+          },
+          {
+            "rating": 16,
+            "mediaRecommendation": {
+              "id": 1604,
+              "popularity": 62185,
+              "title": {
+                "romaji": "Katekyou Hitman REBORN!"
+              }
+            }
+          },
+          {
+            "rating": 15,
+            "mediaRecommendation": {
+              "id": 122349,
+              "popularity": 33018,
+              "title": {
+                "romaji": "Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren"
+              }
+            }
+          },
+          {
+            "rating": 13,
+            "mediaRecommendation": {
+              "id": 126661,
+              "popularity": 10500,
+              "title": {
+                "romaji": "Boku no Hero Academia THE MOVIE: Heroes:Rising - Epilogue Plus: Yume wo Genjitsu ni"
+              }
+            }
+          },
+          {
+            "rating": 11,
+            "mediaRecommendation": {
+              "id": 9941,
+              "popularity": 32176,
+              "title": {
+                "romaji": "TIGER & BUNNY"
+              }
+            }
+          },
+          {
+            "rating": 9,
+            "mediaRecommendation": {
+              "id": 20789,
+              "popularity": 322289,
+              "title": {
+                "romaji": "Nanatsu no Taizai"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "rating": 33,
+    "mediaRecommendation": {
+      "id": 119683,
+      "popularity": 48664,
+      "title": {
+        "romaji": "EDENS ZERO"
+      },
+      "recommendations": {
+        "nodes": [
+          {
+            "rating": 148,
+            "mediaRecommendation": {
+              "id": 6702,
+              "popularity": 220742,
+              "title": {
+                "romaji": "FAIRY TAIL"
+              }
+            }
+          },
+          {
+            "rating": 67,
+            "mediaRecommendation": {
+              "id": 20626,
+              "popularity": 112566,
+              "title": {
+                "romaji": "FAIRY TAIL (2014)"
+              }
+            }
+          },
+          {
+            "rating": 52,
+            "mediaRecommendation": {
+              "id": 99749,
+              "popularity": 84928,
+              "title": {
+                "romaji": "FAIRY TAIL (2018)"
+              }
+            }
+          },
+          {
+            "rating": 39,
+            "mediaRecommendation": {
+              "id": 246,
+              "popularity": 12452,
+              "title": {
+                "romaji": "GROOVE ADVENTURE RAVE"
+              }
+            }
+          },
+          {
+            "rating": 33,
+            "mediaRecommendation": {
+              "id": 21,
+              "popularity": 347642,
+              "title": {
+                "romaji": "ONE PIECE"
+              }
+            }
+          },
+          {
+            "rating": 15,
+            "mediaRecommendation": {
+              "id": 97940,
+              "popularity": 306668,
+              "title": {
+                "romaji": "Black Clover"
+              }
+            }
+          },
+          {
+            "rating": 6,
+            "mediaRecommendation": {
+              "id": 20789,
+              "popularity": 322289,
+              "title": {
+                "romaji": "Nanatsu no Taizai"
+              }
+            }
+          },
+          {
+            "rating": 6,
+            "mediaRecommendation": {
+              "id": 101024,
+              "popularity": 40223,
+              "title": {
+                "romaji": "Radiant"
+              }
+            }
+          },
+          {
+            "rating": 3,
+            "mediaRecommendation": {
+              "id": 813,
+              "popularity": 139830,
+              "title": {
+                "romaji": "Dragon Ball Z"
+              }
+            }
+          },
+          {
+            "rating": 2,
+            "mediaRecommendation": {
+              "id": 105310,
+              "popularity": 248021,
+              "title": {
+                "romaji": "Enen no Shouboutai"
+              }
+            }
+          },
+          {
+            "rating": 1,
+            "mediaRecommendation": {
+              "id": 1823,
+              "popularity": 1007,
+              "title": {
+                "romaji": "Shin Hakkenden"
+              }
+            }
+          },
+          {
+            "rating": 1,
+            "mediaRecommendation": {
+              "id": 1184,
+              "popularity": 2409,
+              "title": {
+                "romaji": "Lost Universe"
+              }
+            }
+          },
+          {
+            "rating": 0,
+            "mediaRecommendation": {
+              "id": 21459,
+              "popularity": 524015,
+              "title": {
+                "romaji": "Boku no Hero Academia"
+              }
+            }
+          },
+          {
+            "rating": -2,
+            "mediaRecommendation": {
+              "id": 21499,
+              "popularity": 74020,
+              "title": {
+                "romaji": "Sousei no Onmyouji"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "rating": 31,
+    "mediaRecommendation": {
+      "id": 20626,
+      "popularity": 112566,
+      "title": {
+        "romaji": "FAIRY TAIL (2014)"
+      },
+      "recommendations": {
+        "nodes": [
+          {
+            "rating": 67,
+            "mediaRecommendation": {
+              "id": 119683,
+              "popularity": 48664,
+              "title": {
+                "romaji": "EDENS ZERO"
+              }
+            }
+          },
+          {
+            "rating": 34,
+            "mediaRecommendation": {
+              "id": 97940,
+              "popularity": 306668,
+              "title": {
+                "romaji": "Black Clover"
+              }
+            }
+          },
+          {
+            "rating": 31,
+            "mediaRecommendation": {
+              "id": 21,
+              "popularity": 347642,
+              "title": {
+                "romaji": "ONE PIECE"
+              }
+            }
+          },
+          {
+            "rating": 23,
+            "mediaRecommendation": {
+              "id": 20,
+              "popularity": 405919,
+              "title": {
+                "romaji": "NARUTO"
+              }
+            }
+          },
+          {
+            "rating": 16,
+            "mediaRecommendation": {
+              "id": 246,
+              "popularity": 12452,
+              "title": {
+                "romaji": "GROOVE ADVENTURE RAVE"
+              }
+            }
+          },
+          {
+            "rating": 14,
+            "mediaRecommendation": {
+              "id": 99539,
+              "popularity": 179888,
+              "title": {
+                "romaji": "Nanatsu no Taizai: Imashime no Fukkatsu"
+              }
+            }
+          },
+          {
+            "rating": 12,
+            "mediaRecommendation": {
+              "id": 1735,
+              "popularity": 346171,
+              "title": {
+                "romaji": "NARUTO: Shippuuden"
+              }
+            }
+          },
+          {
+            "rating": 5,
+            "mediaRecommendation": {
+              "id": 108928,
+              "popularity": 122748,
+              "title": {
+                "romaji": "Nanatsu no Taizai: Kamigami no Gekirin"
+              }
+            }
+          },
+          {
+            "rating": 3,
+            "mediaRecommendation": {
+              "id": 14513,
+              "popularity": 138786,
+              "title": {
+                "romaji": "Magi: The labyrinth of magic"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "rating": 31,
+    "mediaRecommendation": {
+      "id": 10033,
+      "popularity": 16044,
+      "title": {
+        "romaji": "Toriko"
+      },
+      "recommendations": {
+        "nodes": [
+          {
+            "rating": 31,
+            "mediaRecommendation": {
+              "id": 21,
+              "popularity": 347642,
+              "title": {
+                "romaji": "ONE PIECE"
+              }
+            }
+          },
+          {
+            "rating": 20,
+            "mediaRecommendation": {
+              "id": 967,
+              "popularity": 19388,
+              "title": {
+                "romaji": "Hokuto no Ken"
+              }
+            }
+          },
+          {
+            "rating": 13,
+            "mediaRecommendation": {
+              "id": 813,
+              "popularity": 139830,
+              "title": {
+                "romaji": "Dragon Ball Z"
+              }
+            }
+          },
+          {
+            "rating": 10,
+            "mediaRecommendation": {
+              "id": 21175,
+              "popularity": 116864,
+              "title": {
+                "romaji": "Dragon Ball Super"
+              }
+            }
+          },
+          {
+            "rating": 8,
+            "mediaRecommendation": {
+              "id": 2229,
+              "popularity": 3141,
+              "title": {
+                "romaji": "Dragon Quest: Dai no Daibouken"
+              }
+            }
+          },
+          {
+            "rating": 7,
+            "mediaRecommendation": {
+              "id": 20923,
+              "popularity": 253877,
+              "title": {
+                "romaji": "Shokugeki no Souma"
+              }
+            }
+          },
+          {
+            "rating": 7,
+            "mediaRecommendation": {
+              "id": 14719,
+              "popularity": 272961,
+              "title": {
+                "romaji": "JoJo no Kimyou na Bouken (TV)"
+              }
+            }
+          },
+          {
+            "rating": 5,
+            "mediaRecommendation": {
+              "id": 223,
+              "popularity": 121995,
+              "title": {
+                "romaji": "Dragon Ball"
+              }
+            }
+          },
+          {
+            "rating": 2,
+            "mediaRecommendation": {
+              "id": 114043,
+              "popularity": 89007,
+              "title": {
+                "romaji": "Shokugeki no Souma: Gou no Sara"
+              }
+            }
+          },
+          {
+            "rating": 2,
+            "mediaRecommendation": {
+              "id": 110,
+              "popularity": 2585,
+              "title": {
+                "romaji": "Chuuka Ichiban!"
+              }
+            }
+          },
+          {
+            "rating": 1,
+            "mediaRecommendation": {
+              "id": 100855,
+              "popularity": 31421,
+              "title": {
+                "romaji": "Emiya-san Chi no Kyou no Gohan"
+              }
+            }
+          },
+          {
+            "rating": 1,
+            "mediaRecommendation": {
+              "id": 99255,
+              "popularity": 143691,
+              "title": {
+                "romaji": "Shokugeki no Souma: San no Sara"
+              }
+            }
+          },
+          {
+            "rating": 1,
+            "mediaRecommendation": {
+              "id": 21450,
+              "popularity": 175176,
+              "title": {
+                "romaji": "JoJo no Kimyou na Bouken: Diamond wa Kudakenai"
+              }
+            }
+          },
+          {
+            "rating": 0,
+            "mediaRecommendation": {
+              "id": 154,
+              "popularity": 38111,
+              "title": {
+                "romaji": "Shaman King"
+              }
+            }
+          },
+          {
+            "rating": 0,
+            "mediaRecommendation": {
+              "id": 20474,
+              "popularity": 193997,
+              "title": {
+                "romaji": "JoJo no Kimyou na Bouken: Stardust Crusaders"
+              }
+            }
+          },
+          {
+            "rating": 0,
+            "mediaRecommendation": {
+              "id": 97873,
+              "popularity": 8114,
+              "title": {
+                "romaji": "Isekai Izakaya: Koto Aitheria no Izakaya Nobu."
+              }
+            }
+          },
+          {
+            "rating": -1,
+            "mediaRecommendation": {
+              "id": 1254,
+              "popularity": 23503,
+              "title": {
+                "romaji": "Saint Seiya"
+              }
+            }
+          },
+          {
+            "rating": -1,
+            "mediaRecommendation": {
+              "id": 11061,
+              "popularity": 484456,
+              "title": {
+                "romaji": "HUNTER\u00d7HUNTER (2011)"
+              }
+            }
+          },
+          {
+            "rating": -1,
+            "mediaRecommendation": {
+              "id": 3765,
+              "popularity": 280,
+              "title": {
+                "romaji": "Pygmalio"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "rating": 28,
+    "mediaRecommendation": {
+      "id": 20789,
+      "popularity": 322289,
+      "title": {
+        "romaji": "Nanatsu no Taizai"
+      },
+      "recommendations": {
+        "nodes": [
+          {
+            "rating": 87,
+            "mediaRecommendation": {
+              "id": 6702,
+              "popularity": 220742,
+              "title": {
+                "romaji": "FAIRY TAIL"
+              }
+            }
+          },
+          {
+            "rating": 85,
+            "mediaRecommendation": {
+              "id": 97940,
+              "popularity": 306668,
+              "title": {
+                "romaji": "Black Clover"
+              }
+            }
+          },
+          {
+            "rating": 66,
+            "mediaRecommendation": {
+              "id": 101168,
+              "popularity": 67004,
+              "title": {
+                "romaji": "Plunderer"
+              }
+            }
+          },
+          {
+            "rating": 62,
+            "mediaRecommendation": {
+              "id": 20613,
+              "popularity": 316768,
+              "title": {
+                "romaji": "Akame ga Kill!"
+              }
+            }
+          },
+          {
+            "rating": 33,
+            "mediaRecommendation": {
+              "id": 269,
+              "popularity": 237866,
+              "title": {
+                "romaji": "BLEACH"
+              }
+            }
+          },
+          {
+            "rating": 28,
+            "mediaRecommendation": {
+              "id": 21,
+              "popularity": 347642,
+              "title": {
+                "romaji": "ONE PIECE"
+              }
+            }
+          },
+          {
+            "rating": 21,
+            "mediaRecommendation": {
+              "id": 116752,
+              "popularity": 78913,
+              "title": {
+                "romaji": "Nanatsu no Taizai: Fundo no Shinpan"
+              }
+            }
+          },
+          {
+            "rating": 20,
+            "mediaRecommendation": {
+              "id": 114236,
+              "popularity": 158407,
+              "title": {
+                "romaji": "Enen no Shouboutai: Ni no Shou"
+              }
+            }
+          },
+          {
+            "rating": 19,
+            "mediaRecommendation": {
+              "id": 14513,
+              "popularity": 138786,
+              "title": {
+                "romaji": "Magi: The labyrinth of magic"
+              }
+            }
+          },
+          {
+            "rating": 15,
+            "mediaRecommendation": {
+              "id": 99540,
+              "popularity": 61217,
+              "title": {
+                "romaji": "Nanatsu no Taizai Movie: Tenkuu no Torawarebito"
+              }
+            }
+          },
+          {
+            "rating": 9,
+            "mediaRecommendation": {
+              "id": 21459,
+              "popularity": 524015,
+              "title": {
+                "romaji": "Boku no Hero Academia"
+              }
+            }
+          },
+          {
+            "rating": 6,
+            "mediaRecommendation": {
+              "id": 119683,
+              "popularity": 48664,
+              "title": {
+                "romaji": "EDENS ZERO"
+              }
+            }
+          },
+          {
+            "rating": 5,
+            "mediaRecommendation": {
+              "id": 813,
+              "popularity": 139830,
+              "title": {
+                "romaji": "Dragon Ball Z"
+              }
+            }
+          },
+          {
+            "rating": 5,
+            "mediaRecommendation": {
+              "id": 105310,
+              "popularity": 248021,
+              "title": {
+                "romaji": "Enen no Shouboutai"
+              }
+            }
+          },
+          {
+            "rating": 4,
+            "mediaRecommendation": {
+              "id": 99749,
+              "popularity": 84928,
+              "title": {
+                "romaji": "FAIRY TAIL (2018)"
+              }
+            }
+          },
+          {
+            "rating": 3,
+            "mediaRecommendation": {
+              "id": 128740,
+              "popularity": 15406,
+              "title": {
+                "romaji": "Nanatsu no Taizai: Hikari ni Norowareshi Mono-tachi"
+              }
+            }
+          },
+          {
+            "rating": 3,
+            "mediaRecommendation": {
+              "id": 20705,
+              "popularity": 25060,
+              "title": {
+                "romaji": "sin: Nanatsu no Taizai"
+              }
+            }
+          },
+          {
+            "rating": 2,
+            "mediaRecommendation": {
+              "id": 1735,
+              "popularity": 346171,
+              "title": {
+                "romaji": "NARUTO: Shippuuden"
+              }
+            }
+          },
+          {
+            "rating": 2,
+            "mediaRecommendation": {
+              "id": 101004,
+              "popularity": 113998,
+              "title": {
+                "romaji": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu"
+              }
+            }
+          },
+          {
+            "rating": 2,
+            "mediaRecommendation": {
+              "id": 97938,
+              "popularity": 143706,
+              "title": {
+                "romaji": "BORUTO: NARUTO NEXT GENERATIONS"
+              }
+            }
+          },
+          {
+            "rating": 2,
+            "mediaRecommendation": {
+              "id": 122441,
+              "popularity": 35983,
+              "title": {
+                "romaji": "Peach Boy Riverside"
+              }
+            }
+          },
+          {
+            "rating": 1,
+            "mediaRecommendation": {
+              "id": 11703,
+              "popularity": 40252,
+              "title": {
+                "romaji": "C\u00d8DE:BREAKER"
+              }
+            }
+          },
+          {
+            "rating": 1,
+            "mediaRecommendation": {
+              "id": 112649,
+              "popularity": 49269,
+              "title": {
+                "romaji": "Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari"
+              }
+            }
+          },
+          {
+            "rating": 1,
+            "mediaRecommendation": {
+              "id": 20590,
+              "popularity": 59358,
+              "title": {
+                "romaji": "Shingeki no Bahamut: GENESIS"
+              }
+            }
+          },
+          {
+            "rating": 1,
+            "mediaRecommendation": {
+              "id": 6033,
+              "popularity": 53707,
+              "title": {
+                "romaji": "Dragon Ball Kai"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "rating": 24,
+    "mediaRecommendation": {
+      "id": 20770,
+      "popularity": 125197,
+      "title": {
+        "romaji": "Akatsuki no Yona"
+      },
+      "recommendations": {
+        "nodes": [
+          {
+            "rating": 170,
+            "mediaRecommendation": {
+              "id": 21058,
+              "popularity": 106883,
+              "title": {
+                "romaji": "Akagami no Shirayuki-hime"
+              }
+            }
+          },
+          {
+            "rating": 100,
+            "mediaRecommendation": {
+              "id": 122052,
+              "popularity": 36676,
+              "title": {
+                "romaji": "Kaizoku Oujo"
+              }
+            }
+          },
+          {
+            "rating": 74,
+            "mediaRecommendation": {
+              "id": 249,
+              "popularity": 101790,
+              "title": {
+                "romaji": "Inuyasha"
+              }
+            }
+          },
+          {
+            "rating": 73,
+            "mediaRecommendation": {
+              "id": 111762,
+              "popularity": 109392,
+              "title": {
+                "romaji": "Fruits Basket: 2nd Season"
+              }
+            }
+          },
+          {
+            "rating": 41,
+            "mediaRecommendation": {
+              "id": 20935,
+              "popularity": 49596,
+              "title": {
+                "romaji": "Arslan Senki (TV)"
+              }
+            }
+          },
+          {
+            "rating": 31,
+            "mediaRecommendation": {
+              "id": 21827,
+              "popularity": 310606,
+              "title": {
+                "romaji": "Violet Evergarden"
+              }
+            }
+          },
+          {
+            "rating": 31,
+            "mediaRecommendation": {
+              "id": 153,
+              "popularity": 20862,
+              "title": {
+                "romaji": "Juuni Kokuki"
+              }
+            }
+          },
+          {
+            "rating": 29,
+            "mediaRecommendation": {
+              "id": 21258,
+              "popularity": 55237,
+              "title": {
+                "romaji": "Akagami no Shirayuki-hime 2"
+              }
+            }
+          },
+          {
+            "rating": 26,
+            "mediaRecommendation": {
+              "id": 164,
+              "popularity": 161623,
+              "title": {
+                "romaji": "Mononoke-hime"
+              }
+            }
+          },
+          {
+            "rating": 26,
+            "mediaRecommendation": {
+              "id": 14513,
+              "popularity": 138786,
+              "title": {
+                "romaji": "Magi: The labyrinth of magic"
+              }
+            }
+          },
+          {
+            "rating": 24,
+            "mediaRecommendation": {
+              "id": 114535,
+              "popularity": 168442,
+              "title": {
+                "romaji": "Fumetsu no Anata e"
+              }
+            }
+          },
+          {
+            "rating": 24,
+            "mediaRecommendation": {
+              "id": 21,
+              "popularity": 347642,
+              "title": {
+                "romaji": "ONE PIECE"
+              }
+            }
+          },
+          {
+            "rating": 21,
+            "mediaRecommendation": {
+              "id": 101347,
+              "popularity": 202980,
+              "title": {
+                "romaji": "Dororo"
+              }
+            }
+          },
+          {
+            "rating": 21,
+            "mediaRecommendation": {
+              "id": 1827,
+              "popularity": 27888,
+              "title": {
+                "romaji": "Seirei no Moribito"
+              }
+            }
+          },
+          {
+            "rating": 16,
+            "mediaRecommendation": {
+              "id": 21394,
+              "popularity": 72091,
+              "title": {
+                "romaji": "Magi: Sinbad no Bouken"
+              }
+            }
+          },
+          {
+            "rating": 16,
+            "mediaRecommendation": {
+              "id": 123,
+              "popularity": 12153,
+              "title": {
+                "romaji": "Fushigi Yuugi"
+              }
+            }
+          },
+          {
+            "rating": 16,
+            "mediaRecommendation": {
+              "id": 957,
+              "popularity": 9809,
+              "title": {
+                "romaji": "Saiunkoku Monogatari"
+              }
+            }
+          },
+          {
+            "rating": 14,
+            "mediaRecommendation": {
+              "id": 14713,
+              "popularity": 89015,
+              "title": {
+                "romaji": "Kamisama Hajimemashita"
+              }
+            }
+          },
+          {
+            "rating": 14,
+            "mediaRecommendation": {
+              "id": 131646,
+              "popularity": 99287,
+              "title": {
+                "romaji": "Vanitas no Carte"
+              }
+            }
+          },
+          {
+            "rating": 13,
+            "mediaRecommendation": {
+              "id": 128546,
+              "popularity": 94210,
+              "title": {
+                "romaji": "Vivy: Fluorite Eye\u2019s Song"
+              }
+            }
+          },
+          {
+            "rating": 13,
+            "mediaRecommendation": {
+              "id": 101922,
+              "popularity": 539103,
+              "title": {
+                "romaji": "Kimetsu no Yaiba"
+              }
+            }
+          },
+          {
+            "rating": 11,
+            "mediaRecommendation": {
+              "id": 20599,
+              "popularity": 41954,
+              "title": {
+                "romaji": "Soredemo Sekai wa Utsukushii"
+              }
+            }
+          },
+          {
+            "rating": 10,
+            "mediaRecommendation": {
+              "id": 98707,
+              "popularity": 92235,
+              "title": {
+                "romaji": "Houseki no Kuni"
+              }
+            }
+          },
+          {
+            "rating": 8,
+            "mediaRecommendation": {
+              "id": 98436,
+              "popularity": 133312,
+              "title": {
+                "romaji": "Mahoutsukai no Yome"
+              }
+            }
+          },
+          {
+            "rating": 7,
+            "mediaRecommendation": {
+              "id": 97768,
+              "popularity": 46047,
+              "title": {
+                "romaji": "Grancrest Senki"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "rating": 22,
+    "mediaRecommendation": {
+      "id": 45,
+      "popularity": 55301,
+      "title": {
+        "romaji": "Rurouni Kenshin: Meiji Kenkaku Romantan"
+      },
+      "recommendations": {
+        "nodes": [
+          {
+            "rating": 55,
+            "mediaRecommendation": {
+              "id": 249,
+              "popularity": 101790,
+              "title": {
+                "romaji": "Inuyasha"
+              }
+            }
+          },
+          {
+            "rating": 52,
+            "mediaRecommendation": {
+              "id": 205,
+              "popularity": 157066,
+              "title": {
+                "romaji": "Samurai Champloo"
+              }
+            }
+          },
+          {
+            "rating": 35,
+            "mediaRecommendation": {
+              "id": 392,
+              "popularity": 90713,
+              "title": {
+                "romaji": "Yuu\u2606Yuu\u2606Hakusho"
+              }
+            }
+          },
+          {
+            "rating": 33,
+            "mediaRecommendation": {
+              "id": 6,
+              "popularity": 87565,
+              "title": {
+                "romaji": "TRIGUN"
+              }
+            }
+          },
+          {
+            "rating": 33,
+            "mediaRecommendation": {
+              "id": 101347,
+              "popularity": 202980,
+              "title": {
+                "romaji": "Dororo"
+              }
+            }
+          },
+          {
+            "rating": 22,
+            "mediaRecommendation": {
+              "id": 21,
+              "popularity": 347642,
+              "title": {
+                "romaji": "ONE PIECE"
+              }
+            }
+          },
+          {
+            "rating": 19,
+            "mediaRecommendation": {
+              "id": 918,
+              "popularity": 169565,
+              "title": {
+                "romaji": "Gintama"
+              }
+            }
+          },
+          {
+            "rating": 15,
+            "mediaRecommendation": {
+              "id": 136,
+              "popularity": 69282,
+              "title": {
+                "romaji": "HUNTER\u00d7HUNTER"
+              }
+            }
+          },
+          {
+            "rating": 11,
+            "mediaRecommendation": {
+              "id": 11061,
+              "popularity": 484456,
+              "title": {
+                "romaji": "HUNTER\u00d7HUNTER (2011)"
+              }
+            }
+          },
+          {
+            "rating": 10,
+            "mediaRecommendation": {
+              "id": 101922,
+              "popularity": 539103,
+              "title": {
+                "romaji": "Kimetsu no Yaiba"
+              }
+            }
+          },
+          {
+            "rating": 7,
+            "mediaRecommendation": {
+              "id": 1536,
+              "popularity": 18043,
+              "title": {
+                "romaji": "Busou Renkin"
+              }
+            }
+          },
+          {
+            "rating": 7,
+            "mediaRecommendation": {
+              "id": 101348,
+              "popularity": 238541,
+              "title": {
+                "romaji": "Vinland Saga"
+              }
+            }
+          },
+          {
+            "rating": 6,
+            "mediaRecommendation": {
+              "id": 269,
+              "popularity": 237866,
+              "title": {
+                "romaji": "BLEACH"
+              }
+            }
+          },
+          {
+            "rating": 6,
+            "mediaRecommendation": {
+              "id": 6895,
+              "popularity": 16402,
+              "title": {
+                "romaji": "Hakuouki"
+              }
+            }
+          },
+          {
+            "rating": 5,
+            "mediaRecommendation": {
+              "id": 131930,
+              "popularity": 20316,
+              "title": {
+                "romaji": "Yasuke"
+              }
+            }
+          },
+          {
+            "rating": 5,
+            "mediaRecommendation": {
+              "id": 606,
+              "popularity": 2811,
+              "title": {
+                "romaji": "Kazemakase Tsukikage Ran"
+              }
+            }
+          },
+          {
+            "rating": 4,
+            "mediaRecommendation": {
+              "id": 6594,
+              "popularity": 87681,
+              "title": {
+                "romaji": "Katanagatari"
+              }
+            }
+          },
+          {
+            "rating": 4,
+            "mediaRecommendation": {
+              "id": 68,
+              "popularity": 26982,
+              "title": {
+                "romaji": "Black Cat"
+              }
+            }
+          },
+          {
+            "rating": 4,
+            "mediaRecommendation": {
+              "id": 166,
+              "popularity": 13663,
+              "title": {
+                "romaji": "Samurai 7"
+              }
+            }
+          },
+          {
+            "rating": 3,
+            "mediaRecommendation": {
+              "id": 7588,
+              "popularity": 16973,
+              "title": {
+                "romaji": "Saraiya Goyou"
+              }
+            }
+          },
+          {
+            "rating": 3,
+            "mediaRecommendation": {
+              "id": 419,
+              "popularity": 4794,
+              "title": {
+                "romaji": "Samurai Deeper Kyou"
+              }
+            }
+          },
+          {
+            "rating": 3,
+            "mediaRecommendation": {
+              "id": 20447,
+              "popularity": 339441,
+              "title": {
+                "romaji": "Noragami"
+              }
+            }
+          },
+          {
+            "rating": 2,
+            "mediaRecommendation": {
+              "id": 340,
+              "popularity": 2567,
+              "title": {
+                "romaji": "Mutsu Enmei Ryuu Gaiden: Shura no Toki"
+              }
+            }
+          },
+          {
+            "rating": 2,
+            "mediaRecommendation": {
+              "id": 7592,
+              "popularity": 31889,
+              "title": {
+                "romaji": "Nurarihyon no Mago"
+              }
+            }
+          },
+          {
+            "rating": 1,
+            "mediaRecommendation": {
+              "id": 97590,
+              "popularity": 7249,
+              "title": {
+                "romaji": "Onihei"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "rating": 21,
+    "mediaRecommendation": {
+      "id": 14513,
+      "popularity": 138786,
+      "title": {
+        "romaji": "Magi: The labyrinth of magic"
+      },
+      "recommendations": {
+        "nodes": [
+          {
+            "rating": 67,
+            "mediaRecommendation": {
+              "id": 11061,
+              "popularity": 484456,
+              "title": {
+                "romaji": "HUNTER\u00d7HUNTER (2011)"
+              }
+            }
+          },
+          {
+            "rating": 53,
+            "mediaRecommendation": {
+              "id": 115230,
+              "popularity": 179777,
+              "title": {
+                "romaji": "Kami no Tou: Tower of God"
+              }
+            }
+          },
+          {
+            "rating": 47,
+            "mediaRecommendation": {
+              "id": 6702,
+              "popularity": 220742,
+              "title": {
+                "romaji": "FAIRY TAIL"
+              }
+            }
+          },
+          {
+            "rating": 31,
+            "mediaRecommendation": {
+              "id": 128034,
+              "popularity": 19961,
+              "title": {
+                "romaji": "ORIENT"
+              }
+            }
+          },
+          {
+            "rating": 28,
+            "mediaRecommendation": {
+              "id": 97940,
+              "popularity": 306668,
+              "title": {
+                "romaji": "Black Clover"
+              }
+            }
+          },
+          {
+            "rating": 26,
+            "mediaRecommendation": {
+              "id": 20770,
+              "popularity": 125197,
+              "title": {
+                "romaji": "Akatsuki no Yona"
+              }
+            }
+          },
+          {
+            "rating": 21,
+            "mediaRecommendation": {
+              "id": 21,
+              "popularity": 347642,
+              "title": {
+                "romaji": "ONE PIECE"
+              }
+            }
+          },
+          {
+            "rating": 19,
+            "mediaRecommendation": {
+              "id": 20789,
+              "popularity": 322289,
+              "title": {
+                "romaji": "Nanatsu no Taizai"
+              }
+            }
+          },
+          {
+            "rating": 13,
+            "mediaRecommendation": {
+              "id": 108465,
+              "popularity": 190202,
+              "title": {
+                "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu"
+              }
+            }
+          },
+          {
+            "rating": 9,
+            "mediaRecommendation": {
+              "id": 5114,
+              "popularity": 416497,
+              "title": {
+                "romaji": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST"
+              }
+            }
+          },
+          {
+            "rating": 8,
+            "mediaRecommendation": {
+              "id": 114099,
+              "popularity": 13915,
+              "title": {
+                "romaji": "Dragon Quest: Dai no Daibouken (2020)"
+              }
+            }
+          },
+          {
+            "rating": 8,
+            "mediaRecommendation": {
+              "id": 97984,
+              "popularity": 12264,
+              "title": {
+                "romaji": "Shoukoku no Altair"
+              }
+            }
+          },
+          {
+            "rating": 7,
+            "mediaRecommendation": {
+              "id": 119675,
+              "popularity": 53081,
+              "title": {
+                "romaji": "SHAMAN KING (2021)"
+              }
+            }
+          },
+          {
+            "rating": 6,
+            "mediaRecommendation": {
+              "id": 116752,
+              "popularity": 78913,
+              "title": {
+                "romaji": "Nanatsu no Taizai: Fundo no Shinpan"
+              }
+            }
+          },
+          {
+            "rating": 5,
+            "mediaRecommendation": {
+              "id": 154,
+              "popularity": 38111,
+              "title": {
+                "romaji": "Shaman King"
+              }
+            }
+          },
+          {
+            "rating": 5,
+            "mediaRecommendation": {
+              "id": 20935,
+              "popularity": 49596,
+              "title": {
+                "romaji": "Arslan Senki (TV)"
+              }
+            }
+          },
+          {
+            "rating": 3,
+            "mediaRecommendation": {
+              "id": 101922,
+              "popularity": 539103,
+              "title": {
+                "romaji": "Kimetsu no Yaiba"
+              }
+            }
+          },
+          {
+            "rating": 3,
+            "mediaRecommendation": {
+              "id": 20913,
+              "popularity": 43853,
+              "title": {
+                "romaji": "K: Return Of Kings"
+              }
+            }
+          },
+          {
+            "rating": 3,
+            "mediaRecommendation": {
+              "id": 20626,
+              "popularity": 112566,
+              "title": {
+                "romaji": "FAIRY TAIL (2014)"
+              }
+            }
+          },
+          {
+            "rating": 2,
+            "mediaRecommendation": {
+              "id": 121,
+              "popularity": 154061,
+              "title": {
+                "romaji": "Hagane no Renkinjutsushi"
+              }
+            }
+          },
+          {
+            "rating": 2,
+            "mediaRecommendation": {
+              "id": 20729,
+              "popularity": 64973,
+              "title": {
+                "romaji": "World Trigger"
+              }
+            }
+          },
+          {
+            "rating": 2,
+            "mediaRecommendation": {
+              "id": 101347,
+              "popularity": 202980,
+              "title": {
+                "romaji": "Dororo"
+              }
+            }
+          },
+          {
+            "rating": 2,
+            "mediaRecommendation": {
+              "id": 105310,
+              "popularity": 248021,
+              "title": {
+                "romaji": "Enen no Shouboutai"
+              }
+            }
+          },
+          {
+            "rating": 2,
+            "mediaRecommendation": {
+              "id": 2825,
+              "popularity": 1054,
+              "title": {
+                "romaji": "Arabian Nights: Sindbad no Bouken"
+              }
+            }
+          },
+          {
+            "rating": 1,
+            "mediaRecommendation": {
+              "id": 21361,
+              "popularity": 31533,
+              "title": {
+                "romaji": "GRANBLUE FANTASY The Animation"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "rating": 21,
+    "mediaRecommendation": {
+      "id": 249,
+      "popularity": 101790,
+      "title": {
+        "romaji": "Inuyasha"
+      },
+      "recommendations": {
+        "nodes": [
+          {
+            "rating": 97,
+            "mediaRecommendation": {
+              "id": 101922,
+              "popularity": 539103,
+              "title": {
+                "romaji": "Kimetsu no Yaiba"
+              }
+            }
+          },
+          {
+            "rating": 89,
+            "mediaRecommendation": {
+              "id": 14713,
+              "popularity": 89015,
+              "title": {
+                "romaji": "Kamisama Hajimemashita"
+              }
+            }
+          },
+          {
+            "rating": 74,
+            "mediaRecommendation": {
+              "id": 20770,
+              "popularity": 125197,
+              "title": {
+                "romaji": "Akatsuki no Yona"
+              }
+            }
+          },
+          {
+            "rating": 55,
+            "mediaRecommendation": {
+              "id": 118399,
+              "popularity": 23893,
+              "title": {
+                "romaji": "Hanyou no Yashahime"
+              }
+            }
+          },
+          {
+            "rating": 55,
+            "mediaRecommendation": {
+              "id": 45,
+              "popularity": 55301,
+              "title": {
+                "romaji": "Rurouni Kenshin: Meiji Kenkaku Romantan"
+              }
+            }
+          },
+          {
+            "rating": 41,
+            "mediaRecommendation": {
+              "id": 210,
+              "popularity": 30327,
+              "title": {
+                "romaji": "Ranma 1/2"
+              }
+            }
+          },
+          {
+            "rating": 34,
+            "mediaRecommendation": {
+              "id": 392,
+              "popularity": 90713,
+              "title": {
+                "romaji": "Yuu\u2606Yuu\u2606Hakusho"
+              }
+            }
+          },
+          {
+            "rating": 25,
+            "mediaRecommendation": {
+              "id": 101347,
+              "popularity": 202980,
+              "title": {
+                "romaji": "Dororo"
+              }
+            }
+          },
+          {
+            "rating": 23,
+            "mediaRecommendation": {
+              "id": 20447,
+              "popularity": 339441,
+              "title": {
+                "romaji": "Noragami"
+              }
+            }
+          },
+          {
+            "rating": 21,
+            "mediaRecommendation": {
+              "id": 21,
+              "popularity": 347642,
+              "title": {
+                "romaji": "ONE PIECE"
+              }
+            }
+          },
+          {
+            "rating": 20,
+            "mediaRecommendation": {
+              "id": 123,
+              "popularity": 12153,
+              "title": {
+                "romaji": "Fushigi Yuugi"
+              }
+            }
+          },
+          {
+            "rating": 19,
+            "mediaRecommendation": {
+              "id": 164,
+              "popularity": 161623,
+              "title": {
+                "romaji": "Mononoke-hime"
+              }
+            }
+          },
+          {
+            "rating": 15,
+            "mediaRecommendation": {
+              "id": 269,
+              "popularity": 237866,
+              "title": {
+                "romaji": "BLEACH"
+              }
+            }
+          },
+          {
+            "rating": 15,
+            "mediaRecommendation": {
+              "id": 21038,
+              "popularity": 31801,
+              "title": {
+                "romaji": "Ushio to Tora (TV)"
+              }
+            }
+          },
+          {
+            "rating": 13,
+            "mediaRecommendation": {
+              "id": 182,
+              "popularity": 21229,
+              "title": {
+                "romaji": "Tenkuu no Escaflowne"
+              }
+            }
+          },
+          {
+            "rating": 12,
+            "mediaRecommendation": {
+              "id": 1293,
+              "popularity": 15864,
+              "title": {
+                "romaji": "Urusei Yatsura"
+              }
+            }
+          },
+          {
+            "rating": 9,
+            "mediaRecommendation": {
+              "id": 7592,
+              "popularity": 31889,
+              "title": {
+                "romaji": "Nurarihyon no Mago"
+              }
+            }
+          },
+          {
+            "rating": 8,
+            "mediaRecommendation": {
+              "id": 2973,
+              "popularity": 1165,
+              "title": {
+                "romaji": "Fire Tripper"
+              }
+            }
+          },
+          {
+            "rating": 8,
+            "mediaRecommendation": {
+              "id": 149939,
+              "popularity": 1017,
+              "title": {
+                "romaji": "Ranma 1/2: Nettou-hen"
+              }
+            }
+          },
+          {
+            "rating": 8,
+            "mediaRecommendation": {
+              "id": 530,
+              "popularity": 61759,
+              "title": {
+                "romaji": "Bishoujo Senshi Sailor Moon"
+              }
+            }
+          },
+          {
+            "rating": 8,
+            "mediaRecommendation": {
+              "id": 11061,
+              "popularity": 484456,
+              "title": {
+                "romaji": "HUNTER\u00d7HUNTER (2011)"
+              }
+            }
+          },
+          {
+            "rating": 7,
+            "mediaRecommendation": {
+              "id": 131264,
+              "popularity": 7020,
+              "title": {
+                "romaji": "Hanyou no Yashahime: Ni no Shou"
+              }
+            }
+          },
+          {
+            "rating": 7,
+            "mediaRecommendation": {
+              "id": 20953,
+              "popularity": 13195,
+              "title": {
+                "romaji": "Kyoukai no Rinne"
+              }
+            }
+          },
+          {
+            "rating": 7,
+            "mediaRecommendation": {
+              "id": 177,
+              "popularity": 23894,
+              "title": {
+                "romaji": "Tsubasa Chronicle"
+              }
+            }
+          },
+          {
+            "rating": 6,
+            "mediaRecommendation": {
+              "id": 153,
+              "popularity": 20862,
+              "title": {
+                "romaji": "Juuni Kokuki"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "rating": 20,
+    "mediaRecommendation": {
+      "id": 6033,
+      "popularity": 53707,
+      "title": {
+        "romaji": "Dragon Ball Kai"
+      },
+      "recommendations": {
+        "nodes": [
+          {
+            "rating": 20,
+            "mediaRecommendation": {
+              "id": 21,
+              "popularity": 347642,
+              "title": {
+                "romaji": "ONE PIECE"
+              }
+            }
+          },
+          {
+            "rating": 17,
+            "mediaRecommendation": {
+              "id": 1735,
+              "popularity": 346171,
+              "title": {
+                "romaji": "NARUTO: Shippuuden"
+              }
+            }
+          },
+          {
+            "rating": 13,
+            "mediaRecommendation": {
+              "id": 392,
+              "popularity": 90713,
+              "title": {
+                "romaji": "Yuu\u2606Yuu\u2606Hakusho"
+              }
+            }
+          },
+          {
+            "rating": 8,
+            "mediaRecommendation": {
+              "id": 14719,
+              "popularity": 272961,
+              "title": {
+                "romaji": "JoJo no Kimyou na Bouken (TV)"
+              }
+            }
+          },
+          {
+            "rating": 6,
+            "mediaRecommendation": {
+              "id": 225,
+              "popularity": 75303,
+              "title": {
+                "romaji": "Dragon Ball GT"
+              }
+            }
+          },
+          {
+            "rating": 4,
+            "mediaRecommendation": {
+              "id": 102352,
+              "popularity": 14520,
+              "title": {
+                "romaji": "Super Dragon Ball Heroes"
+              }
+            }
+          },
+          {
+            "rating": 4,
+            "mediaRecommendation": {
+              "id": 906,
+              "popularity": 20444,
+              "title": {
+                "romaji": "Dragon Ball Z: Ryuuken Bakuhatsu!! Goku ga Yaraneba Dare ga Yaru"
+              }
+            }
+          },
+          {
+            "rating": 3,
+            "mediaRecommendation": {
+              "id": 1254,
+              "popularity": 23503,
+              "title": {
+                "romaji": "Saint Seiya"
+              }
+            }
+          },
+          {
+            "rating": 3,
+            "mediaRecommendation": {
+              "id": 269,
+              "popularity": 237866,
+              "title": {
+                "romaji": "BLEACH"
+              }
+            }
+          },
+          {
+            "rating": 1,
+            "mediaRecommendation": {
+              "id": 2229,
+              "popularity": 3141,
+              "title": {
+                "romaji": "Dragon Quest: Dai no Daibouken"
+              }
+            }
+          },
+          {
+            "rating": 1,
+            "mediaRecommendation": {
+              "id": 20789,
+              "popularity": 322289,
+              "title": {
+                "romaji": "Nanatsu no Taizai"
+              }
+            }
+          },
+          {
+            "rating": -1,
+            "mediaRecommendation": {
+              "id": 967,
+              "popularity": 19388,
+              "title": {
+                "romaji": "Hokuto no Ken"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "rating": 19,
+    "mediaRecommendation": {
+      "id": 122052,
+      "popularity": 36676,
+      "title": {
+        "romaji": "Kaizoku Oujo"
+      },
+      "recommendations": {
+        "nodes": [
+          {
+            "rating": 100,
+            "mediaRecommendation": {
+              "id": 20770,
+              "popularity": 125197,
+              "title": {
+                "romaji": "Akatsuki no Yona"
+              }
+            }
+          },
+          {
+            "rating": 45,
+            "mediaRecommendation": {
+              "id": 21258,
+              "popularity": 55237,
+              "title": {
+                "romaji": "Akagami no Shirayuki-hime 2"
+              }
+            }
+          },
+          {
+            "rating": 20,
+            "mediaRecommendation": {
+              "id": 21184,
+              "popularity": 35595,
+              "title": {
+                "romaji": "Shingeki no Bahamut: VIRGIN SOUL"
+              }
+            }
+          },
+          {
+            "rating": 19,
+            "mediaRecommendation": {
+              "id": 21,
+              "popularity": 347642,
+              "title": {
+                "romaji": "ONE PIECE"
+              }
+            }
+          },
+          {
+            "rating": 13,
+            "mediaRecommendation": {
+              "id": 21058,
+              "popularity": 106883,
+              "title": {
+                "romaji": "Akagami no Shirayuki-hime"
+              }
+            }
+          },
+          {
+            "rating": 13,
+            "mediaRecommendation": {
+              "id": 99699,
+              "popularity": 69009,
+              "title": {
+                "romaji": "Golden Kamuy"
+              }
+            }
+          },
+          {
+            "rating": 9,
+            "mediaRecommendation": {
+              "id": 21394,
+              "popularity": 72091,
+              "title": {
+                "romaji": "Magi: Sinbad no Bouken"
+              }
+            }
+          },
+          {
+            "rating": 7,
+            "mediaRecommendation": {
+              "id": 205,
+              "popularity": 157066,
+              "title": {
+                "romaji": "Samurai Champloo"
+              }
+            }
+          },
+          {
+            "rating": 7,
+            "mediaRecommendation": {
+              "id": 20590,
+              "popularity": 59358,
+              "title": {
+                "romaji": "Shingeki no Bahamut: GENESIS"
+              }
+            }
+          },
+          {
+            "rating": 3,
+            "mediaRecommendation": {
+              "id": 1251,
+              "popularity": 13076,
+              "title": {
+                "romaji": "Fushigi no Umi no Nadia"
+              }
+            }
+          },
+          {
+            "rating": 3,
+            "mediaRecommendation": {
+              "id": 182,
+              "popularity": 21229,
+              "title": {
+                "romaji": "Tenkuu no Escaflowne"
+              }
+            }
+          },
+          {
+            "rating": 3,
+            "mediaRecommendation": {
+              "id": 21827,
+              "popularity": 310606,
+              "title": {
+                "romaji": "Violet Evergarden"
+              }
+            }
+          },
+          {
+            "rating": 3,
+            "mediaRecommendation": {
+              "id": 1946,
+              "popularity": 5549,
+              "title": {
+                "romaji": "Ashita no Nadja"
+              }
+            }
+          },
+          {
+            "rating": 3,
+            "mediaRecommendation": {
+              "id": 110547,
+              "popularity": 27505,
+              "title": {
+                "romaji": "Arte"
+              }
+            }
+          },
+          {
+            "rating": 2,
+            "mediaRecommendation": {
+              "id": 1086,
+              "popularity": 2782,
+              "title": {
+                "romaji": "Kenran Butou Sai: The Mars Daybreak"
+              }
+            }
+          },
+          {
+            "rating": 2,
+            "mediaRecommendation": {
+              "id": 1699,
+              "popularity": 20727,
+              "title": {
+                "romaji": "Romeo x Juliet"
+              }
+            }
+          },
+          {
+            "rating": 2,
+            "mediaRecommendation": {
+              "id": 20643,
+              "popularity": 13353,
+              "title": {
+                "romaji": "NORN9: Norn + Nonet"
+              }
+            }
+          },
+          {
+            "rating": 2,
+            "mediaRecommendation": {
+              "id": 21665,
+              "popularity": 66827,
+              "title": {
+                "romaji": "B: The Beginning"
+              }
+            }
+          },
+          {
+            "rating": 2,
+            "mediaRecommendation": {
+              "id": 8917,
+              "popularity": 12357,
+              "title": {
+                "romaji": "Mouretsu Pirates"
+              }
+            }
+          },
+          {
+            "rating": 2,
+            "mediaRecommendation": {
+              "id": 19505,
+              "popularity": 186,
+              "title": {
+                "romaji": "Kaizoku Ouji"
+              }
+            }
+          },
+          {
+            "rating": 1,
+            "mediaRecommendation": {
+              "id": 455,
+              "popularity": 5890,
+              "title": {
+                "romaji": "Fantastic Children"
+              }
+            }
+          },
+          {
+            "rating": 1,
+            "mediaRecommendation": {
+              "id": 99457,
+              "popularity": 79347,
+              "title": {
+                "romaji": "Sayonara no Asa ni Yakusoku no Hana wo Kazarou"
+              }
+            }
+          },
+          {
+            "rating": 0,
+            "mediaRecommendation": {
+              "id": 513,
+              "popularity": 72249,
+              "title": {
+                "romaji": "Tenkuu no Shiro Laputa"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "rating": 10,
+    "mediaRecommendation": {
+      "id": 205,
+      "popularity": 157066,
+      "title": {
+        "romaji": "Samurai Champloo"
+      },
+      "recommendations": {
+        "nodes": [
+          {
+            "rating": 965,
+            "mediaRecommendation": {
+              "id": 1,
+              "popularity": 267159,
+              "title": {
+                "romaji": "Cowboy Bebop"
+              }
+            }
+          },
+          {
+            "rating": 216,
+            "mediaRecommendation": {
+              "id": 101347,
+              "popularity": 202980,
+              "title": {
+                "romaji": "Dororo"
+              }
+            }
+          },
+          {
+            "rating": 113,
+            "mediaRecommendation": {
+              "id": 1292,
+              "popularity": 47407,
+              "title": {
+                "romaji": "Afro Samurai"
+              }
+            }
+          },
+          {
+            "rating": 98,
+            "mediaRecommendation": {
+              "id": 6594,
+              "popularity": 87681,
+              "title": {
+                "romaji": "Katanagatari"
+              }
+            }
+          },
+          {
+            "rating": 54,
+            "mediaRecommendation": {
+              "id": 4087,
+              "popularity": 37924,
+              "title": {
+                "romaji": "Michiko to Hatchin"
+              }
+            }
+          },
+          {
+            "rating": 52,
+            "mediaRecommendation": {
+              "id": 45,
+              "popularity": 55301,
+              "title": {
+                "romaji": "Rurouni Kenshin: Meiji Kenkaku Romantan"
+              }
+            }
+          },
+          {
+            "rating": 51,
+            "mediaRecommendation": {
+              "id": 20057,
+              "popularity": 57738,
+              "title": {
+                "romaji": "Space\u2606Dandy"
+              }
+            }
+          },
+          {
+            "rating": 51,
+            "mediaRecommendation": {
+              "id": 109616,
+              "popularity": 16683,
+              "title": {
+                "romaji": "Mugen no Juunin: IMMORTAL"
+              }
+            }
+          },
+          {
+            "rating": 42,
+            "mediaRecommendation": {
+              "id": 131930,
+              "popularity": 20316,
+              "title": {
+                "romaji": "Yasuke"
+              }
+            }
+          },
+          {
+            "rating": 26,
+            "mediaRecommendation": {
+              "id": 918,
+              "popularity": 169565,
+              "title": {
+                "romaji": "Gintama"
+              }
+            }
+          },
+          {
+            "rating": 25,
+            "mediaRecommendation": {
+              "id": 2418,
+              "popularity": 48640,
+              "title": {
+                "romaji": "Stranger: Mukou Hadan"
+              }
+            }
+          },
+          {
+            "rating": 25,
+            "mediaRecommendation": {
+              "id": 100298,
+              "popularity": 89992,
+              "title": {
+                "romaji": "Megalo Box"
+              }
+            }
+          },
+          {
+            "rating": 15,
+            "mediaRecommendation": {
+              "id": 2251,
+              "popularity": 121462,
+              "title": {
+                "romaji": "Baccano!"
+              }
+            }
+          },
+          {
+            "rating": 14,
+            "mediaRecommendation": {
+              "id": 9969,
+              "popularity": 68750,
+              "title": {
+                "romaji": "Gintama'"
+              }
+            }
+          },
+          {
+            "rating": 13,
+            "mediaRecommendation": {
+              "id": 6,
+              "popularity": 87565,
+              "title": {
+                "romaji": "TRIGUN"
+              }
+            }
+          },
+          {
+            "rating": 10,
+            "mediaRecommendation": {
+              "id": 20590,
+              "popularity": 59358,
+              "title": {
+                "romaji": "Shingeki no Bahamut: GENESIS"
+              }
+            }
+          },
+          {
+            "rating": 10,
+            "mediaRecommendation": {
+              "id": 21,
+              "popularity": 347642,
+              "title": {
+                "romaji": "ONE PIECE"
+              }
+            }
+          },
+          {
+            "rating": 9,
+            "mediaRecommendation": {
+              "id": 113359,
+              "popularity": 35586,
+              "title": {
+                "romaji": "NOMAD: Megalo Box 2"
+              }
+            }
+          },
+          {
+            "rating": 9,
+            "mediaRecommendation": {
+              "id": 166,
+              "popularity": 13663,
+              "title": {
+                "romaji": "Samurai 7"
+              }
+            }
+          },
+          {
+            "rating": 7,
+            "mediaRecommendation": {
+              "id": 44,
+              "popularity": 30346,
+              "title": {
+                "romaji": "Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen"
+              }
+            }
+          },
+          {
+            "rating": 7,
+            "mediaRecommendation": {
+              "id": 20666,
+              "popularity": 28434,
+              "title": {
+                "romaji": "Space\u2606Dandy 2"
+              }
+            }
+          },
+          {
+            "rating": 7,
+            "mediaRecommendation": {
+              "id": 122052,
+              "popularity": 36676,
+              "title": {
+                "romaji": "Kaizoku Oujo"
+              }
+            }
+          },
+          {
+            "rating": 7,
+            "mediaRecommendation": {
+              "id": 138714,
+              "popularity": 18125,
+              "title": {
+                "romaji": "Heike Monogatari"
+              }
+            }
+          },
+          {
+            "rating": 6,
+            "mediaRecommendation": {
+              "id": 617,
+              "popularity": 18678,
+              "title": {
+                "romaji": "Juubee Ninpuuchou"
+              }
+            }
+          },
+          {
+            "rating": 6,
+            "mediaRecommendation": {
+              "id": 2216,
+              "popularity": 16599,
+              "title": {
+                "romaji": "Shigurui"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "rating": 9,
+    "mediaRecommendation": {
+      "id": 117193,
+      "popularity": 224253,
+      "title": {
+        "romaji": "Boku no Hero Academia 5"
+      },
+      "recommendations": {
+        "nodes": [
+          {
+            "rating": 110,
+            "mediaRecommendation": {
+              "id": 97940,
+              "popularity": 306668,
+              "title": {
+                "romaji": "Black Clover"
+              }
+            }
+          },
+          {
+            "rating": 96,
+            "mediaRecommendation": {
+              "id": 21087,
+              "popularity": 444993,
+              "title": {
+                "romaji": "One Punch Man"
+              }
+            }
+          },
+          {
+            "rating": 89,
+            "mediaRecommendation": {
+              "id": 108553,
+              "popularity": 104458,
+              "title": {
+                "romaji": "Boku no Hero Academia THE MOVIE: Heroes:Rising"
+              }
+            }
+          },
+          {
+            "rating": 74,
+            "mediaRecommendation": {
+              "id": 101922,
+              "popularity": 539103,
+              "title": {
+                "romaji": "Kimetsu no Yaiba"
+              }
+            }
+          },
+          {
+            "rating": 57,
+            "mediaRecommendation": {
+              "id": 20755,
+              "popularity": 371296,
+              "title": {
+                "romaji": "Ansatsu Kyoushitsu"
+              }
+            }
+          },
+          {
+            "rating": 38,
+            "mediaRecommendation": {
+              "id": 11061,
+              "popularity": 484456,
+              "title": {
+                "romaji": "HUNTER\u00d7HUNTER (2011)"
+              }
+            }
+          },
+          {
+            "rating": 30,
+            "mediaRecommendation": {
+              "id": 20,
+              "popularity": 405919,
+              "title": {
+                "romaji": "NARUTO"
+              }
+            }
+          },
+          {
+            "rating": 15,
+            "mediaRecommendation": {
+              "id": 113415,
+              "popularity": 458486,
+              "title": {
+                "romaji": "Jujutsu Kaisen"
+              }
+            }
+          },
+          {
+            "rating": 10,
+            "mediaRecommendation": {
+              "id": 116006,
+              "popularity": 178937,
+              "title": {
+                "romaji": "THE GOD OF HIGH SCHOOL"
+              }
+            }
+          },
+          {
+            "rating": 9,
+            "mediaRecommendation": {
+              "id": 21,
+              "popularity": 347642,
+              "title": {
+                "romaji": "ONE PIECE"
+              }
+            }
+          },
+          {
+            "rating": 8,
+            "mediaRecommendation": {
+              "id": 6702,
+              "popularity": 220742,
+              "title": {
+                "romaji": "FAIRY TAIL"
+              }
+            }
+          },
+          {
+            "rating": 7,
+            "mediaRecommendation": {
+              "id": 130183,
+              "popularity": 17314,
+              "title": {
+                "romaji": "Boku no Hero Academia: Training of the Dead"
+              }
+            }
+          },
+          {
+            "rating": 3,
+            "mediaRecommendation": {
+              "id": 813,
+              "popularity": 139830,
+              "title": {
+                "romaji": "Dragon Ball Z"
+              }
+            }
+          },
+          {
+            "rating": 3,
+            "mediaRecommendation": {
+              "id": 21459,
+              "popularity": 524015,
+              "title": {
+                "romaji": "Boku no Hero Academia"
+              }
+            }
+          },
+          {
+            "rating": 1,
+            "mediaRecommendation": {
+              "id": 1606,
+              "popularity": 11863,
+              "title": {
+                "romaji": "Kekkaishi"
+              }
+            }
+          },
+          {
+            "rating": 1,
+            "mediaRecommendation": {
+              "id": 7592,
+              "popularity": 31889,
+              "title": {
+                "romaji": "Nurarihyon no Mago"
+              }
+            }
+          },
+          {
+            "rating": 0,
+            "mediaRecommendation": {
+              "id": 20727,
+              "popularity": 136097,
+              "title": {
+                "romaji": "Kekkai Sensen"
+              }
+            }
+          },
+          {
+            "rating": 0,
+            "mediaRecommendation": {
+              "id": 4756,
+              "popularity": 896,
+              "title": {
+                "romaji": "Hello Harinezumi: File 170 Satsui no Ryoubun"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+]
