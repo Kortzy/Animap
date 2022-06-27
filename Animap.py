@@ -49,34 +49,47 @@ def flatten(d, parent_key=''):
 def tracing(G: networkx.graph):
     edge_x = []
     edge_y = []
-    edge_width = []
+    edge_desc_x = []
+    edge_desc_y = []
+    edge_desc_text = []
     for edge in G.edges:
         x0, y0 = G.nodes[edge[0]]["pos"]
         x1, y1 = G.nodes[edge[1]]["pos"]
         edge_x.extend([x0, x1, None])
         edge_y.extend([y0, y1, None])
-        edge_width.append(G.edges[edge]['weight'])
+        edge_desc_x += tuple([(x0 + x1) / 2])
+        edge_desc_y += tuple([(y0 + y1) / 2])
+        print(tuple([(x0 + x1) / 2]))
+        edge_desc_text.append(f"Rating:{G.edges[edge]['weight']}")
 
 
     edge_trace = go.Scatter(
         x=edge_x, y=edge_y,
         line=dict(width=3, color='Black'),
-        hoverinfo='text',
-        hoverlabel={"bgcolor": "MediumSeaGreen", "font": {"color": "Black"}},
-        text=edge_width,
         mode='lines')
 
+    edge_desc_trace = go.Scatter(
+        x=edge_desc_x, y=edge_desc_y,
+        hovertext=edge_desc_text,
+        mode="markers",
+        hoverinfo="text",
+        hoverlabel={"bgcolor": "MediumSeaGreen", "font": {"color": "Black"}},
+        marker=dict(
+            size=20,
+            color="Black"),
+        opacity=0.2)
+        
     node_x = []
     node_y = []
     node_text = []
     node_popularity = []
-    for node in G.nodes():
+    for node in G.nodes:
         x, y = G.nodes[node]['pos']
         node_x.append(x)
         node_y.append(y)
         node_text.append(f"name:{G.nodes[node]['romaji']}\npopularity:{G.nodes[node]['popularity']}")
         node_popularity.append(G.nodes[node]["popularity"])
-
+        
     node_trace = go.Scatter(
         x=node_x, y=node_y,
         mode='markers',
@@ -98,7 +111,7 @@ def tracing(G: networkx.graph):
         )
     )
 
-    fig = go.Figure(data=[edge_trace, node_trace],
+    fig = go.Figure(data=[edge_trace, node_trace, edge_desc_trace],
         layout=go.Layout(
             title=f'Recommendations for X',
             titlefont_size=16,
