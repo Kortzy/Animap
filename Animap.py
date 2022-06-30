@@ -5,15 +5,13 @@ import requests
 import matplotlib.pyplot as plt
 import plotly.graph_objects as go
 
-
-def flatten(d, parent_key=''):
+def flatten(dictionary):
     items = []
-    for k, v in d.items():
-        child_key = k if parent_key else k
+    for k, v in dictionary.items():
         if isinstance(v, dict):
-            items.extend(flatten(v, child_key).items())
+            items.extend(flatten(v).items())
         else:
-            items.append((child_key, v))
+            items.append((k, v))
     return dict(items)
 
 def anime_request():
@@ -26,7 +24,7 @@ query ($id: Int) { # Define which variables will be used in the query (id)
     title {
       romaji
     }
-    recommendations (sort: RATING_DESC) {
+    recommendations (sort: RATING_DESC, perPage: 10) {
       nodes {
         rating
         mediaRecommendation {
@@ -35,7 +33,7 @@ query ($id: Int) { # Define which variables will be used in the query (id)
           title {
             romaji
           }
-          recommendations (sort: RATING_DESC) {
+          recommendations (sort: RATING_DESC, perPage: 3) {
             nodes {
               rating
               mediaRecommendation {
@@ -72,7 +70,7 @@ def tracing(G: networkx.graph):
         edge_y.extend([y0, y1, None])
         edge_desc_x += tuple([(x0 + x1) / 2])
         edge_desc_y += tuple([(y0 + y1) / 2])
-        edge_desc_text.append(f"Rating:X")
+        edge_desc_text.append(f"Rating:{G.edges[edge]['weight']}")
 
 
     edge_trace = go.Scatter(
@@ -99,7 +97,6 @@ def tracing(G: networkx.graph):
         x, y = G.nodes[node]['pos']
         node_x.append(x)
         node_y.append(y)
-        print(G.nodes[node])
         node_text.append(f"name:{G.nodes[node]['romaji']}\npopularity:{G.nodes[node]['popularity']}")
         node_popularity.append(G.nodes[node]["popularity"])
         
@@ -137,44 +134,38 @@ def tracing(G: networkx.graph):
     )
     fig.show()
 
-#def node_attributes(rec_list, G: networkx.graph):
-#    for anime in rec_list:
-#        recommended_dict = flatten(anime)
-#        del recommended_dict["rating"]
-#        anime_attributes = {recommended_dict["id"]: recommended_dict}
-#        #json.dump(anime_attributes, open(r'C:\Users\u227838\Documents\Animap\anime_attributes.json', "w"), indent=2)
-#        G.add_node(recommended_dict["id"])
-#        G.add_edge(anime_dict["id"], recommended_dict["id"], weight=anime["rating"])
-#        networkx.set_node_attributes(G, anime_attributes)
-#        return(flatten(anime)["nodes"])
-
 def main_anime(anime_dict):
     anime = {k: v for k, v in anime_dict.items() if k != "nodes"}
     return {anime["id"]: anime}       
     
-def node_attributes(anime_dict, G: networkx.graph):
-    rec_list = flatten(anime_dict)["nodes"]
-    attributes = [main_anime(anime_dict)]
+def node_attributes(anime_dict):
+    rec_list = anime_dict["nodes"]
+    attributes = main_anime(anime_dict)
     for anime in rec_list:
-        recommended_dict = flatten(anime)
-        attributes.append({recommended_dict["id"]: recommended_dict})
+        recommended_dict = {k: v for k, v in flatten(anime).items() if k != "nodes"}
+        attributes.update({recommended_dict["id"]: recommended_dict})
     return attributes
 
 def network_graph(G: networkx.graph, attributes):
-    main_d_id = next(iter(attributes[0]))
-    for d in attributes:
-        d_id = next(iter(d))
-        G.add_node(d_id)
-        G.add_edge(str(main_d_id), str(d_id))
-        networkx.set_node_attributes(G, d)
-
-def main():
-    G = networkx.Graph()
-    anime_dict = anime_request()
-    network_graph(G, node_attributes(anime_dict, G))
+    main_d_id = next(iter(attributes))
+    for k, v in attributes.items():
+        G.add_node(k)
+        if "rating" in v.keys():
+            G.add_edge(main_d_id, k, weight=v["rating"])
+        else:
+            pass
+        networkx.set_node_attributes(G, {k:v})
     pos = networkx.spring_layout(G)
     for node in G.nodes:
         G.nodes[node]["pos"] = list(pos[node])
+    
+def main():
+    G = networkx.Graph()
+    anime_dicti = anime_request()
+    attributes = node_attributes(anime_dicti)
+    network_graph(G, attributes)
+    for nodes in anime_dicti["nodes"]:
+        network_graph(G, node_attributes(flatten(nodes)))
     tracing(G)
 
 if __name__ == "__main__":
