@@ -75,7 +75,7 @@ def tracing(G: networkx.graph):
 
     edge_trace = go.Scatter(
         x=edge_x, y=edge_y,
-        line=dict(width=3, color='Black'),
+        line=dict(width=5, color='Black'),
         mode='lines')
 
     edge_desc_trace = go.Scatter(
@@ -85,9 +85,9 @@ def tracing(G: networkx.graph):
         hoverinfo="text",
         hoverlabel={"bgcolor": "MediumSeaGreen", "font": {"color": "Black"}},
         marker=dict(
-            size=20,
+            size=50,
             color="Black"),
-        opacity=0.2)
+        opacity=0)
         
     node_x = []
     node_y = []
@@ -100,24 +100,26 @@ def tracing(G: networkx.graph):
         node_text.append(f"name:{G.nodes[node]['romaji']}\npopularity:{G.nodes[node]['popularity']}")
         node_popularity.append(G.nodes[node]["popularity"])
         
+    node_popularity_scaled = [(((popularity - min(node_popularity)) * 100) // max(node_popularity)) + 50 for popularity in node_popularity ]
     node_trace = go.Scatter(
         x=node_x, y=node_y,
         mode='markers',
         hoverinfo='text',
         hoverlabel={"bgcolor": "MediumSeaGreen", "font": {"color": "Black"}},
         text=node_text,
+        opacity=1,
         marker=dict(
             size=50,
-            colorscale='Picnic',
+            colorscale=[[0, 'rgb(85,205,252)'], [0.5, 'rgb(255,255,255)'], [1, 'rgb(247,168,184)']],
             showscale=True,
             color=node_popularity,
+            line_width=3,
             colorbar=dict(
                 thickness=25,
                 title='Node Popularity',
                 xanchor='left',
                 titleside='right'
-            ),
-            line_width=3
+            )
         )
     )
 
@@ -163,9 +165,11 @@ def main():
     G = networkx.Graph()
     anime_dicti = anime_request()
     attributes = node_attributes(anime_dicti)
+    json.dump(attributes, open(r"C:\Users\u227838\Documents\Animap\atributes.json", "w"), indent=2)
     network_graph(G, attributes)
     for nodes in anime_dicti["nodes"]:
-        network_graph(G, node_attributes(flatten(nodes)))
+        sub_attributes = {k: v for k, v in flatten(nodes).items() if k != "rating"}
+        network_graph(G, node_attributes(sub_attributes))
     tracing(G)
 
 if __name__ == "__main__":
